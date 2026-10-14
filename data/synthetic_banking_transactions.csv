@@ -1,0 +1,1003 @@
+transaction_id,timestamp,account_type,transaction_type,amount,payment_mode,branch,transaction_status
+TXN0000041,2025-01-01 10:06:39,Current,Deposit,2101.39,ATM,Chennai Central,Successful
+TXN0000007,2025-01-01 11:57:27,Savings,Payment,5105.29,UPI,Bengaluru Indiranagar,Successful
+TXN0000668,2025-01-02 08:28:02,Savings,Transfer,2000.0,ATM,Mumbai Fort,Successful
+TXN0000789,2025-01-03 09:17:54,Savings,Transfer,5548.45,Credit Card,Delhi Connaught Place,Successful
+TXN0000155,2025-01-03 12:10:50,Savings,Transfer,1386.0,UPI,Chennai Central,Successful
+TXN0000564,2025-01-03 14:19:35,Current,Deposit,63.4,UPI,Chennai Central,Successful
+TXN0000775,2025-01-04 09:29:33,Savings,Transfer,5200.0,ATM,Mumbai Fort,Successful
+TXN0000899,2025-01-04 09:57:26,Savings,Transfer,334.14,Credit Card,Delhi Connaught Place,Successful
+TXN0000085,2025-01-04 10:57:50,Savings,Withdrawal,915.13,UPI,Chennai Central,Successful
+TXN0000537,2025-01-04 17:03:56,Savings,Withdrawal,600.0,ATM,Mumbai Fort,Successful
+TXN0000521,2025-01-04 20:18:32,Savings,Payment,962.9,UPI,Bengaluru Indiranagar,Successful
+TXN0000867,2025-01-05 10:14:43,Business,Transfer,9729.35,UPI,Bengaluru Indiranagar,Successful
+TXN0000166,2025-01-05 17:18:20,Savings,Deposit,1799.76,Debit Card,Delhi Connaught Place,Failed
+TXN0000354,2025-01-05 19:42:45,Savings,Transfer,1000.0,ATM,Mumbai Fort,Successful
+TXN0000043,2025-01-05 21:50:34,Savings,Payment,2500.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000684,2025-01-06 12:59:43,Savings,Withdrawal,5100.0,ATM,Bengaluru Indiranagar,Pending
+TXN0000857,2025-01-07 10:55:27,Savings,Deposit,1200.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000837,2025-01-07 10:57:55,Business,Withdrawal,6079.08,Credit Card,Chennai Central,Successful
+TXN0000115,2025-01-08 09:20:46,Business,Deposit,12134.87,Debit Card,Mumbai Fort,Successful
+TXN0000705,2025-01-08 10:38:33,Savings,Transfer,230.68,UPI,Mumbai Fort,Successful
+TXN0000348,2025-01-09 09:31:46,Salary,Deposit,10500.0,ATM,Bengaluru Indiranagar,Failed
+TXN0000747,2025-01-09 12:55:00,Savings,Payment,2390.37,Bank Transfer,Mumbai Fort,Successful
+TXN0000075,2025-01-09 16:12:17,Savings,Payment,487.49,UPI,Mumbai Fort,Successful
+TXN0000148,2025-01-09 17:28:33,Savings,Payment,2200.0,ATM,Chennai Central,Successful
+TXN0000719,2025-01-10 14:20:23,Savings,Withdrawal,1544.12,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000630,2025-01-10 18:35:46,Savings,Payment,307.87,Debit Card,Kolkata Park Street,Failed
+TXN0000038,2025-01-11 20:16:51,Savings,Withdrawal,1068.05,Debit Card,Chennai Central,Pending
+TXN0000062,2025-01-11 22:22:28,Business,Withdrawal,5607.94,Credit Card,Mumbai Fort,Successful
+TXN0000209,2025-01-12 09:42:09,Salary,Withdrawal,2200.0,ATM,Mumbai Fort,Successful
+TXN0000382,2025-01-12 14:16:08,Current,Deposit,4071.69,UPI,Chennai Central,Successful
+TXN0000875,2025-01-12 21:55:47,Savings,Withdrawal,651.85,UPI,Delhi Connaught Place,Successful
+TXN0000329,2025-01-14 14:11:10,Savings,Transfer,1406.41,Credit Card,Chennai Central,Successful
+TXN0000065,2025-01-15 20:10:33,Salary,Withdrawal,8687.47,Debit Card,Chennai Central,Failed
+TXN0000993,2025-01-15 21:14:23,Savings,Withdrawal,11709.26,Bank Transfer,Chennai Central,Successful
+TXN0000653,2025-01-16 18:11:26,Savings,Payment,1996.52,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000273,2025-01-17 10:11:08,Savings,Deposit,727.59,UPI,Chennai Central,Successful
+TXN0000593,2025-01-17 18:12:30,Current,Transfer,312.22,Debit Card,Hyderabad Banjara Hills,Failed
+TXN0000299,2025-01-17 19:52:13,Current,Deposit,4051.51,Debit Card,Chennai Central,Successful
+TXN0000788,2025-01-18 07:47:21,Current,Transfer,82210.33,Bank Transfer,Mumbai Fort,Successful
+TXN0000303,2025-01-18 09:39:30,Savings,Withdrawal,1100.0,ATM,Mumbai Fort,Successful
+TXN0000864,2025-01-18 18:46:36,Savings,Payment,909.06,UPI,Delhi Connaught Place,Successful
+TXN0000717,2025-01-18 19:56:30,Current,Withdrawal,7233.33,Credit Card,Delhi Connaught Place,Successful
+TXN0000624,2025-01-19 09:34:46,Savings,Withdrawal,1500.0,ATM,Delhi Connaught Place,Successful
+TXN0000709,2025-01-19 16:57:04,Business,Payment,2247.9,UPI,Delhi Connaught Place,Successful
+TXN0000269,2025-01-20 09:45:22,Current,Transfer,9611.98,Credit Card,Mumbai Fort,Successful
+TXN0000003,2025-01-20 12:24:34,Current,Deposit,2564.96,UPI,Bengaluru Indiranagar,Successful
+TXN0000666,2025-01-20 13:30:48,Savings,Deposit,4668.26,Debit Card,Delhi Connaught Place,Successful
+TXN0000579,2025-01-21 00:19:18,Salary,Payment,4002.9,UPI,Chennai Central,Successful
+TXN0000963,2025-01-21 16:19:26,Savings,Transfer,3163.41,UPI,Chennai Central,Failed
+TXN0000258,2025-01-21 21:08:09,Savings,Withdrawal,357.65,UPI,Chennai Central,Successful
+TXN0000798,2025-01-22 09:27:24,Savings,Transfer,1007.87,UPI,Chennai Central,Successful
+TXN0000109,2025-01-22 09:30:34,Current,Payment,4716.29,UPI,Mumbai Fort,Successful
+TXN0000134,2025-01-22 19:59:15,Savings,Transfer,1623.65,Debit Card,Mumbai Fort,Pending
+TXN0000897,2025-01-23 00:16:50,Savings,Withdrawal,1389.7,Debit Card,Chennai Central,Successful
+TXN0000583,2025-01-23 10:34:57,Salary,Withdrawal,198.85,UPI,Chennai Central,Successful
+TXN0000558,2025-01-23 11:14:33,Current,Transfer,883.47,UPI,Mumbai Fort,Successful
+TXN0000119,2025-01-23 13:38:00,Current,Transfer,3872.38,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000585,2025-01-23 20:08:18,Current,Deposit,21788.91,Bank Transfer,Chennai Central,Successful
+TXN0000882,2025-01-24 16:40:08,Current,Payment,7216.9,Debit Card,Hyderabad Banjara Hills,Failed
+TXN0000150,2025-01-25 07:06:32,Savings,Withdrawal,6658.96,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000267,2025-01-25 14:40:27,Savings,Payment,2500.0,ATM,Mumbai Fort,Successful
+TXN0000932,2025-01-25 18:01:04,Savings,Withdrawal,1677.57,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000985,2025-01-25 19:32:43,Business,Transfer,3346.27,UPI,Hyderabad Banjara Hills,Failed
+TXN0000223,2025-01-26 09:53:26,Savings,Transfer,2423.57,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000953,2025-01-26 10:18:13,Savings,Deposit,200.82,UPI,Kolkata Park Street,Successful
+TXN0000431,2025-01-26 10:42:23,Savings,Payment,1232.15,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000889,2025-01-26 18:02:13,Salary,Transfer,686.64,Credit Card,Delhi Connaught Place,Successful
+TXN0000294,2025-01-27 09:06:59,Savings,Payment,1347.51,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000243,2025-01-27 11:37:06,Current,Deposit,4430.37,UPI,Chennai Central,Failed
+TXN0000001,2025-01-27 17:17:05,Savings,Withdrawal,2416.06,Debit Card,Delhi Connaught Place,Successful
+TXN0000778,2025-01-27 18:01:43,Savings,Payment,1376.45,UPI,Delhi Connaught Place,Successful
+TXN0000572,2025-01-28 15:44:54,Current,Deposit,14888.04,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000207,2025-01-28 20:40:43,Current,Payment,4018.95,UPI,Delhi Connaught Place,Successful
+TXN0000618,2025-01-28 21:45:28,Savings,Transfer,1283.02,UPI,Delhi Connaught Place,Successful
+TXN0000526,2025-01-29 11:46:57,Savings,Payment,901.76,UPI,Bengaluru Indiranagar,Successful
+TXN0000743,2025-01-29 11:55:02,Savings,Payment,817.48,UPI,Bengaluru Indiranagar,Successful
+TXN0000396,2025-01-29 12:15:09,Salary,Transfer,565.74,Debit Card,Mumbai Fort,Successful
+TXN0000478,2025-01-29 19:53:06,Current,Payment,214.93,UPI,Mumbai Fort,Successful
+TXN0000942,2025-01-30 12:44:13,Salary,Transfer,1837.52,UPI,Mumbai Fort,Failed
+TXN0000159,2025-01-31 08:03:09,Savings,Transfer,1072.15,UPI,Chennai Central,Successful
+TXN0000032,2025-01-31 12:40:18,Savings,Deposit,268.29,UPI,Hyderabad Banjara Hills,Successful
+TXN0000093,2025-02-01 21:53:26,Salary,Deposit,1756.09,UPI,Bengaluru Indiranagar,Successful
+TXN0000849,2025-02-02 04:39:05,Savings,Withdrawal,68685.55,Bank Transfer,Chennai Central,Successful
+TXN0000214,2025-02-02 17:28:37,Savings,Withdrawal,2346.19,UPI,Chennai Central,Successful
+TXN0000471,2025-02-02 20:44:47,Current,Payment,4738.49,UPI,Bengaluru Indiranagar,Successful
+TXN0000453,2025-02-02 21:10:45,Current,Payment,9707.23,UPI,Bengaluru Indiranagar,Successful
+TXN0000445,2025-02-03 17:34:19,Salary,Transfer,37.74,UPI,Bengaluru Indiranagar,Successful
+TXN0000290,2025-02-03 19:27:52,Savings,Transfer,17217.41,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000847,2025-02-04 08:03:49,Savings,Payment,5544.53,Bank Transfer,Chennai Central,Failed
+TXN0000912,2025-02-04 10:29:01,Savings,Payment,1244.07,UPI,Kolkata Park Street,Successful
+TXN0000916,2025-02-04 17:15:32,Savings,Withdrawal,1302.92,UPI,Bengaluru Indiranagar,Successful
+TXN0000265,2025-02-04 19:27:47,Savings,Transfer,4655.77,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000614,2025-02-05 05:40:50,Savings,Withdrawal,1918.74,UPI,Chennai Central,Successful
+TXN0000096,2025-02-05 19:58:18,Savings,Transfer,115.12,UPI,Hyderabad Banjara Hills,Successful
+TXN0000791,2025-02-06 08:18:31,Current,Transfer,7349.4,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000673,2025-02-06 10:23:56,Savings,Transfer,6378.43,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000496,2025-02-06 11:05:30,Current,Withdrawal,5877.91,Debit Card,Kolkata Park Street,Successful
+TXN0000582,2025-02-06 19:34:13,Salary,Transfer,1059.67,UPI,Hyderabad Banjara Hills,Successful
+TXN0000286,2025-02-07 11:22:32,Savings,Deposit,1258.33,UPI,Mumbai Fort,Successful
+TXN0000764,2025-02-07 15:04:12,Current,Payment,1798.19,UPI,Kolkata Park Street,Successful
+TXN0000026,2025-02-07 19:46:29,Salary,Deposit,631.75,UPI,Chennai Central,Successful
+TXN0000797,2025-02-08 12:08:40,Savings,Deposit,92.92,UPI,Bengaluru Indiranagar,Successful
+TXN0000551,2025-02-08 12:56:13,Salary,Payment,1293.9,Debit Card,Kolkata Park Street,Successful
+TXN0000887,2025-02-08 14:56:45,Savings,Withdrawal,1259.06,Debit Card,Chennai Central,Successful
+TXN0000351,2025-02-09 20:50:17,Savings,Transfer,731.21,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000472,2025-02-10 02:49:42,Savings,Payment,1997.27,UPI,Mumbai Fort,Successful
+TXN0000053,2025-02-10 09:52:56,Current,Withdrawal,2879.58,UPI,Delhi Connaught Place,Successful
+TXN0000661,2025-02-11 10:17:20,Savings,Transfer,969.17,Debit Card,Chennai Central,Pending
+TXN0000518,2025-02-11 10:25:22,Savings,Transfer,669.42,UPI,Delhi Connaught Place,Successful
+TXN0000926,2025-02-11 11:04:03,Savings,Transfer,152.36,UPI,Mumbai Fort,Successful
+TXN0000737,2025-02-11 19:19:20,Salary,Transfer,27362.18,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000319,2025-02-12 04:37:24,Savings,Transfer,367.29,UPI,Kolkata Park Street,Successful
+TXN0000202,2025-02-12 08:11:34,Salary,Transfer,2425.15,UPI,Delhi Connaught Place,Successful
+TXN0000638,2025-02-12 09:56:18,Savings,Transfer,2768.86,UPI,Chennai Central,Successful
+TXN0000024,2025-02-12 12:58:31,Current,Transfer,5965.48,UPI,Bengaluru Indiranagar,Successful
+TXN0000950,2025-02-12 15:37:08,Savings,Transfer,1947.36,UPI,Mumbai Fort,Successful
+TXN0000077,2025-02-12 17:21:35,Savings,Deposit,1122.23,Debit Card,Delhi Connaught Place,Successful
+TXN0000042,2025-02-12 18:27:57,Savings,Transfer,37514.38,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000983,2025-02-13 10:02:40,Salary,Withdrawal,2835.97,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000506,2025-02-13 17:06:39,Savings,Withdrawal,5946.52,Credit Card,Mumbai Fort,Successful
+TXN0000156,2025-02-14 14:21:02,Savings,Deposit,659.6,Debit Card,Mumbai Fort,Successful
+TXN0000571,2025-02-14 14:23:13,Current,Deposit,2012.84,UPI,Bengaluru Indiranagar,Successful
+TXN0000994,2025-02-14 15:19:25,Current,Payment,19999.7,Bank Transfer,Chennai Central,Successful
+TXN0000008,2025-02-14 16:56:38,Savings,Payment,564.15,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000227,2025-02-14 17:02:13,Savings,Deposit,692.32,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000218,2025-02-15 09:28:02,Current,Deposit,3977.46,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000978,2025-02-15 20:00:45,Savings,Payment,7724.46,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000161,2025-02-16 14:08:42,Current,Transfer,2082.83,UPI,Kolkata Park Street,Failed
+TXN0000484,2025-02-16 15:17:54,Savings,Withdrawal,5000.0,ATM,Chennai Central,Successful
+TXN0000792,2025-02-17 15:06:13,Savings,Deposit,13796.49,Bank Transfer,Kolkata Park Street,Failed
+TXN0000123,2025-02-17 15:06:28,Savings,Withdrawal,1180.63,UPI,Mumbai Fort,Successful
+TXN0000642,2025-02-17 20:08:26,Salary,Transfer,1463.31,UPI,Delhi Connaught Place,Successful
+TXN0000541,2025-02-18 06:01:54,Current,Deposit,22045.14,ATM,Kolkata Park Street,Successful
+TXN0000151,2025-02-18 10:37:42,Business,Transfer,6253.74,ATM,Chennai Central,Successful
+TXN0000869,2025-02-18 12:48:17,Savings,Transfer,403.44,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000334,2025-02-18 15:35:33,Savings,Transfer,600.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000357,2025-02-19 09:48:28,Business,Payment,1289.46,Debit Card,Chennai Central,Successful
+TXN0000762,2025-02-19 16:41:46,Savings,Withdrawal,4417.79,Debit Card,Chennai Central,Successful
+TXN0000735,2025-02-19 19:49:39,Current,Transfer,3061.51,Credit Card,Chennai Central,Successful
+TXN0000157,2025-02-20 07:09:14,Savings,Transfer,1600.66,Credit Card,Delhi Connaught Place,Failed
+TXN0001000,2025-02-20 18:24:01,Savings,Transfer,2863.7,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000574,2025-02-21 10:14:19,Current,Deposit,207.75,UPI,Delhi Connaught Place,Successful
+TXN0000755,2025-02-21 18:23:32,Savings,Payment,245.54,UPI,Mumbai Fort,Successful
+TXN0000364,2025-02-22 15:00:41,Savings,Transfer,131.97,UPI,Hyderabad Banjara Hills,Successful
+TXN0000648,2025-02-22 17:40:03,Salary,Transfer,1120.51,Debit Card,Kolkata Park Street,Successful
+TXN0000011,2025-02-22 20:57:02,Current,Transfer,1950.73,UPI,Bengaluru Indiranagar,Successful
+TXN0000246,2025-02-23 10:42:39,Current,Payment,4056.55,UPI,Hyderabad Banjara Hills,Successful
+TXN0000846,2025-02-23 17:52:00,Current,Transfer,941.19,UPI,Mumbai Fort,Failed
+TXN0000145,2025-02-24 12:08:07,Savings,Payment,721.52,UPI,Chennai Central,Pending
+TXN0000451,2025-02-26 13:01:31,Current,Withdrawal,2614.65,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000833,2025-02-26 13:27:30,Savings,Transfer,10200.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000996,2025-02-26 18:27:59,Salary,Withdrawal,11061.64,Debit Card,Chennai Central,Successful
+TXN0000169,2025-02-26 18:59:15,Savings,Payment,592.57,UPI,Delhi Connaught Place,Successful
+TXN0000644,2025-02-26 22:38:58,Savings,Transfer,1187.39,UPI,Bengaluru Indiranagar,Successful
+TXN0000160,2025-02-28 17:29:44,Savings,Withdrawal,165.46,UPI,Mumbai Fort,Successful
+TXN0000460,2025-02-28 18:27:06,Savings,Withdrawal,473.75,Credit Card,Mumbai Fort,Successful
+TXN0000790,2025-03-01 11:12:20,Savings,Withdrawal,2063.36,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000469,2025-03-01 16:15:32,Savings,Withdrawal,2841.69,Credit Card,Mumbai Fort,Successful
+TXN0000280,2025-03-02 12:35:08,Salary,Payment,1159.85,UPI,Mumbai Fort,Successful
+TXN0000866,2025-03-02 18:42:31,Savings,Transfer,1350.02,UPI,Delhi Connaught Place,Successful
+TXN0000346,2025-03-02 22:06:19,Savings,Withdrawal,1516.69,UPI,Mumbai Fort,Successful
+TXN0000623,2025-03-02 22:15:21,Savings,Transfer,900.39,Debit Card,Chennai Central,Successful
+TXN0000298,2025-03-03 03:01:28,Savings,Transfer,2700.0,ATM,Mumbai Fort,Successful
+TXN0000816,2025-03-03 13:42:36,Savings,Payment,3270.58,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000088,2025-03-04 07:44:03,Current,Deposit,5775.24,Debit Card,Kolkata Park Street,Successful
+TXN0000505,2025-03-04 08:55:56,Business,Withdrawal,6642.52,ATM,Hyderabad Banjara Hills,Successful
+TXN0000205,2025-03-04 10:50:36,Savings,Withdrawal,4534.36,Debit Card,Delhi Connaught Place,Successful
+TXN0000097,2025-03-04 13:58:16,Savings,Payment,13145.45,Bank Transfer,Mumbai Fort,Successful
+TXN0000611,2025-03-05 08:11:31,Savings,Payment,202.68,Credit Card,Mumbai Fort,Successful
+TXN0000914,2025-03-05 17:25:03,Savings,Transfer,740.18,Debit Card,Bengaluru Indiranagar,Failed
+TXN0000361,2025-03-05 20:14:22,Savings,Withdrawal,1236.08,UPI,Bengaluru Indiranagar,Successful
+TXN0000057,2025-03-06 00:34:21,Savings,Withdrawal,5897.78,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000721,2025-03-06 12:01:26,Savings,Transfer,635.26,UPI,Mumbai Fort,Successful
+TXN0000386,2025-03-06 14:11:41,Savings,Transfer,2500.0,ATM,Kolkata Park Street,Successful
+TXN0000337,2025-03-07 16:37:23,Savings,Withdrawal,2697.12,UPI,Mumbai Fort,Successful
+TXN0000174,2025-03-08 11:54:26,Current,Transfer,1676.33,ATM,Hyderabad Banjara Hills,Successful
+TXN0000313,2025-03-08 13:14:49,Current,Transfer,4969.59,Debit Card,Mumbai Fort,Successful
+TXN0000201,2025-03-08 17:51:54,Savings,Transfer,1852.44,UPI,Bengaluru Indiranagar,Successful
+TXN0000858,2025-03-08 18:04:53,Savings,Withdrawal,412.64,UPI,Chennai Central,Successful
+TXN0000706,2025-03-08 19:10:42,Current,Withdrawal,2961.27,ATM,Chennai Central,Successful
+TXN0000693,2025-03-09 08:49:08,Savings,Withdrawal,149.91,UPI,Chennai Central,Successful
+TXN0000919,2025-03-09 10:36:45,Savings,Transfer,270.74,UPI,Mumbai Fort,Successful
+TXN0000108,2025-03-09 15:30:34,Salary,Withdrawal,570.48,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000454,2025-03-09 17:21:41,Savings,Withdrawal,1258.97,UPI,Mumbai Fort,Successful
+TXN0000199,2025-03-09 19:24:00,Current,Deposit,29815.82,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000037,2025-03-10 09:29:12,Savings,Transfer,4131.61,UPI,Chennai Central,Successful
+TXN0000671,2025-03-10 17:42:54,Current,Payment,994.83,UPI,Chennai Central,Successful
+TXN0000322,2025-03-11 10:10:22,Savings,Deposit,1699.91,UPI,Bengaluru Indiranagar,Successful
+TXN0000061,2025-03-11 11:29:42,Salary,Transfer,2051.16,UPI,Kolkata Park Street,Successful
+TXN0000810,2025-03-12 09:34:15,Current,Withdrawal,2973.18,Credit Card,Chennai Central,Successful
+TXN0000437,2025-03-12 22:58:37,Salary,Withdrawal,668.88,UPI,Bengaluru Indiranagar,Successful
+TXN0000324,2025-03-13 13:51:19,Savings,Deposit,107.77,UPI,Bengaluru Indiranagar,Successful
+TXN0000546,2025-03-13 18:20:39,Current,Withdrawal,389.52,UPI,Bengaluru Indiranagar,Successful
+TXN0000464,2025-03-13 23:15:14,Savings,Deposit,1378.97,UPI,Chennai Central,Successful
+TXN0000358,2025-03-14 07:16:21,Current,Deposit,22709.27,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000012,2025-03-14 08:08:50,Current,Withdrawal,1831.15,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000958,2025-03-14 12:25:06,Current,Withdrawal,15750.04,ATM,Chennai Central,Successful
+TXN0000832,2025-03-14 23:16:07,Savings,Payment,403.87,UPI,Delhi Connaught Place,Successful
+TXN0000910,2025-03-15 11:34:25,Savings,Transfer,19439.78,Bank Transfer,Chennai Central,Successful
+TXN0000463,2025-03-15 12:58:28,Current,Withdrawal,16297.84,ATM,Chennai Central,Successful
+TXN0000165,2025-03-15 18:05:43,Salary,Transfer,1264.29,Credit Card,Mumbai Fort,Successful
+TXN0000781,2025-03-16 03:38:58,Savings,Transfer,5000.0,ATM,Chennai Central,Successful
+TXN0000534,2025-03-16 09:11:50,Savings,Transfer,14127.13,Bank Transfer,Chennai Central,Successful
+TXN0000974,2025-03-18 11:48:39,Current,Transfer,3046.98,ATM,Delhi Connaught Place,Successful
+TXN0000892,2025-03-18 13:16:10,Business,Withdrawal,4705.67,Credit Card,Mumbai Fort,Pending
+TXN0000800,2025-03-18 19:27:18,Current,Payment,2109.86,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000367,2025-03-19 11:11:15,Savings,Transfer,1361.79,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000301,2025-03-19 11:20:38,Salary,Transfer,3644.08,UPI,Delhi Connaught Place,Successful
+TXN0000976,2025-03-19 15:53:52,Savings,Transfer,1872.32,Debit Card,Chennai Central,Successful
+TXN0000353,2025-03-19 17:39:13,Current,Transfer,46997.95,Bank Transfer,Mumbai Fort,Successful
+TXN0000228,2025-03-19 17:42:51,Salary,Payment,2076.45,UPI,Kolkata Park Street,Successful
+TXN0000672,2025-03-19 21:58:36,Salary,Transfer,10329.2,Bank Transfer,Kolkata Park Street,Successful
+TXN0000139,2025-03-20 04:29:14,Savings,Transfer,432.1,UPI,Chennai Central,Failed
+TXN0000212,2025-03-20 12:10:42,Current,Deposit,2501.37,UPI,Mumbai Fort,Successful
+TXN0000481,2025-03-20 16:08:44,Current,Deposit,14581.8,ATM,Hyderabad Banjara Hills,Successful
+TXN0000221,2025-03-21 09:54:41,Savings,Transfer,463.12,UPI,Kolkata Park Street,Successful
+TXN0000901,2025-03-21 10:07:32,Current,Payment,1423.16,UPI,Hyderabad Banjara Hills,Successful
+TXN0000632,2025-03-21 11:43:56,Salary,Transfer,782.18,UPI,Delhi Connaught Place,Successful
+TXN0000385,2025-03-23 08:15:33,Savings,Deposit,1119.43,Credit Card,Mumbai Fort,Successful
+TXN0000442,2025-03-23 13:15:03,Salary,Transfer,2373.09,Credit Card,Kolkata Park Street,Successful
+TXN0000428,2025-03-23 14:29:31,Savings,Transfer,445.86,Debit Card,Chennai Central,Successful
+TXN0000852,2025-03-24 08:53:56,Savings,Deposit,2313.89,Credit Card,Mumbai Fort,Successful
+TXN0000372,2025-03-24 10:16:36,Savings,Withdrawal,1308.5,Credit Card,Delhi Connaught Place,Successful
+TXN0000999,2025-03-24 16:09:38,Salary,Payment,2758.18,UPI,Delhi Connaught Place,Successful
+TXN0000808,2025-03-24 17:15:07,Savings,Deposit,4881.1,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000745,2025-03-25 09:41:08,Current,Transfer,3726.23,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000307,2025-03-25 16:12:29,Current,Transfer,1296.45,UPI,Mumbai Fort,Pending
+TXN0000998,2025-03-26 08:55:32,Savings,Transfer,819.9,UPI,Hyderabad Banjara Hills,Successful
+TXN0000121,2025-03-26 12:48:47,Current,Payment,13608.28,Credit Card,Kolkata Park Street,Successful
+TXN0000725,2025-03-26 16:26:40,Current,Transfer,6584.61,UPI,Chennai Central,Successful
+TXN0000120,2025-03-26 19:12:02,Current,Deposit,6853.74,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000834,2025-03-26 19:41:15,Current,Deposit,765.31,UPI,Delhi Connaught Place,Successful
+TXN0000906,2025-03-27 09:08:37,Current,Payment,1475.97,UPI,Chennai Central,Successful
+TXN0000059,2025-03-27 11:51:37,Salary,Deposit,1133.61,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000590,2025-03-28 09:59:17,Savings,Withdrawal,2238.43,Debit Card,Kolkata Park Street,Successful
+TXN0000532,2025-03-28 17:01:52,Savings,Deposit,2424.4,UPI,Mumbai Fort,Successful
+TXN0000345,2025-03-28 17:14:31,Savings,Withdrawal,180.8,UPI,Chennai Central,Successful
+TXN0000524,2025-03-29 11:52:18,Salary,Withdrawal,918.38,Debit Card,Mumbai Fort,Pending
+TXN0000917,2025-03-29 12:09:45,Savings,Transfer,669.64,UPI,Delhi Connaught Place,Pending
+TXN0000694,2025-03-29 12:39:21,Savings,Transfer,4268.02,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000025,2025-03-29 21:21:21,Current,Transfer,10778.94,Credit Card,Chennai Central,Successful
+TXN0000787,2025-03-30 20:04:04,Business,Withdrawal,2778.98,UPI,Mumbai Fort,Successful
+TXN0000685,2025-03-30 21:21:42,Savings,Deposit,637.32,UPI,Bengaluru Indiranagar,Successful
+TXN0000700,2025-03-31 11:51:51,Savings,Transfer,1248.37,Debit Card,Mumbai Fort,Successful
+TXN0000289,2025-03-31 13:12:05,Savings,Transfer,904.43,Debit Card,Chennai Central,Successful
+TXN0000925,2025-03-31 15:06:13,Current,Payment,89476.08,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN999901,2025-03-31 16:45:12,Business,Transfer,785000.0,Bank Transfer,Mumbai Fort,Successful
+TXN0000095,2025-03-31 17:54:35,Current,Transfer,686.03,Credit Card,Chennai Central,Successful
+TXN0000333,2025-03-31 18:58:29,Savings,Withdrawal,2600.0,ATM,Chennai Central,Successful
+TXN0000035,2025-04-01 10:09:34,Business,Transfer,252.23,Debit Card,Chennai Central,Successful
+TXN0000368,2025-04-02 17:41:43,Savings,Withdrawal,2460.65,Debit Card,Chennai Central,Successful
+TXN0000587,2025-04-03 07:35:12,Savings,Transfer,1322.23,UPI,Mumbai Fort,Successful
+TXN0000570,2025-04-03 09:05:58,Current,Withdrawal,4028.26,Debit Card,Delhi Connaught Place,Failed
+TXN0000092,2025-04-03 19:24:51,Salary,Transfer,169.28,UPI,Mumbai Fort,Successful
+TXN0000900,2025-04-04 06:56:14,Current,Payment,14625.28,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000225,2025-04-04 11:41:42,Savings,Transfer,19471.15,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000383,2025-04-04 12:31:11,Savings,Transfer,438.35,Credit Card,Delhi Connaught Place,Successful
+TXN0000106,2025-04-04 14:07:01,Salary,Payment,13834.25,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000935,2025-04-04 18:24:03,Savings,Transfer,1104.4,Credit Card,Chennai Central,Successful
+TXN0000178,2025-04-05 08:39:20,Savings,Transfer,3528.59,UPI,Mumbai Fort,Successful
+TXN0000233,2025-04-05 12:34:33,Salary,Withdrawal,1269.14,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000667,2025-04-05 14:28:59,Savings,Transfer,2000.0,ATM,Delhi Connaught Place,Successful
+TXN0000734,2025-04-05 19:59:43,Current,Transfer,2523.54,Debit Card,Kolkata Park Street,Successful
+TXN0000962,2025-04-05 20:09:30,Savings,Transfer,2500.0,ATM,Mumbai Fort,Successful
+TXN0000136,2025-04-06 12:19:07,Savings,Transfer,529.4,UPI,Bengaluru Indiranagar,Successful
+TXN0000563,2025-04-06 22:37:06,Savings,Withdrawal,1041.66,UPI,Chennai Central,Successful
+TXN0000028,2025-04-07 00:37:05,Current,Payment,2800.72,Debit Card,Chennai Central,Successful
+TXN0000208,2025-04-07 05:56:19,Savings,Transfer,2200.0,ATM,Mumbai Fort,Successful
+TXN0000142,2025-04-07 10:24:04,Current,Transfer,2867.38,UPI,Mumbai Fort,Successful
+TXN0000283,2025-04-07 14:11:22,Savings,Withdrawal,3748.97,Credit Card,Delhi Connaught Place,Successful
+TXN0000637,2025-04-07 21:13:33,Salary,Withdrawal,6435.61,Debit Card,Delhi Connaught Place,Successful
+TXN0000215,2025-04-08 09:25:36,Savings,Withdrawal,398.42,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000455,2025-04-08 11:56:16,Current,Withdrawal,458.76,UPI,Chennai Central,Successful
+TXN0000439,2025-04-08 11:58:00,Business,Deposit,42476.39,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000341,2025-04-09 07:14:19,Savings,Transfer,1367.7,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000402,2025-04-09 11:14:01,Savings,Withdrawal,3411.09,UPI,Bengaluru Indiranagar,Successful
+TXN0000675,2025-04-09 12:39:39,Savings,Transfer,2732.36,Credit Card,Mumbai Fort,Successful
+TXN0000410,2025-04-09 15:02:42,Savings,Transfer,1276.54,UPI,Chennai Central,Successful
+TXN0000881,2025-04-09 17:11:35,Savings,Transfer,499.68,UPI,Bengaluru Indiranagar,Successful
+TXN0000186,2025-04-09 17:23:11,Current,Payment,415.04,UPI,Bengaluru Indiranagar,Successful
+TXN0000930,2025-04-10 08:50:34,Savings,Transfer,342.92,UPI,Hyderabad Banjara Hills,Successful
+TXN0000531,2025-04-10 10:48:29,Salary,Transfer,2016.03,UPI,Delhi Connaught Place,Successful
+TXN0000130,2025-04-10 13:59:13,Savings,Deposit,646.35,Debit Card,Mumbai Fort,Successful
+TXN0000125,2025-04-10 15:33:59,Current,Payment,3071.17,UPI,Mumbai Fort,Successful
+TXN0000412,2025-04-10 15:40:55,Business,Payment,3815.27,UPI,Chennai Central,Successful
+TXN0000122,2025-04-10 17:19:31,Current,Deposit,5928.42,ATM,Bengaluru Indiranagar,Successful
+TXN0000997,2025-04-11 07:28:41,Current,Transfer,4980.29,Credit Card,Delhi Connaught Place,Successful
+TXN0000420,2025-04-11 10:52:49,Savings,Transfer,2500.0,ATM,Delhi Connaught Place,Successful
+TXN0000494,2025-04-12 08:49:14,Savings,Withdrawal,1500.32,Debit Card,Chennai Central,Successful
+TXN0000795,2025-04-12 11:50:05,Current,Transfer,6451.66,ATM,Hyderabad Banjara Hills,Successful
+TXN0000344,2025-04-12 19:10:33,Savings,Payment,281.42,UPI,Hyderabad Banjara Hills,Successful
+TXN0000210,2025-04-13 13:27:13,Savings,Withdrawal,143722.68,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000561,2025-04-14 08:11:16,Current,Transfer,2428.43,UPI,Chennai Central,Successful
+TXN0000646,2025-04-14 08:24:20,Savings,Withdrawal,340.06,UPI,Chennai Central,Successful
+TXN0000766,2025-04-14 15:24:48,Salary,Payment,2827.09,Credit Card,Delhi Connaught Place,Successful
+TXN0000885,2025-04-15 10:14:08,Savings,Deposit,17640.5,Bank Transfer,Kolkata Park Street,Successful
+TXN0000783,2025-04-15 15:46:29,Savings,Transfer,1151.97,Debit Card,Chennai Central,Successful
+TXN0000152,2025-04-16 07:24:11,Savings,Payment,1627.89,UPI,Kolkata Park Street,Successful
+TXN0000908,2025-04-16 12:27:33,Current,Deposit,76629.05,Bank Transfer,Mumbai Fort,Successful
+TXN0000279,2025-04-16 12:50:03,Savings,Transfer,491.93,UPI,Mumbai Fort,Successful
+TXN0000861,2025-04-16 15:45:49,Savings,Deposit,966.12,UPI,Bengaluru Indiranagar,Successful
+TXN0000017,2025-04-16 19:52:38,Savings,Transfer,680.4,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000132,2025-04-17 02:04:25,Savings,Withdrawal,500.0,ATM,Mumbai Fort,Successful
+TXN0000220,2025-04-17 18:43:02,Savings,Deposit,119.47,UPI,Chennai Central,Successful
+TXN0000677,2025-04-19 02:34:05,Current,Transfer,4484.85,ATM,Chennai Central,Successful
+TXN0000663,2025-04-19 13:45:35,Savings,Deposit,2204.03,UPI,Hyderabad Banjara Hills,Successful
+TXN0000620,2025-04-20 11:33:10,Current,Payment,685.08,UPI,Hyderabad Banjara Hills,Successful
+TXN0000588,2025-04-21 06:59:36,Current,Transfer,3002.65,UPI,Chennai Central,Successful
+TXN0000514,2025-04-21 15:29:04,Current,Deposit,4811.75,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000838,2025-04-22 07:53:37,Savings,Payment,1160.74,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000929,2025-04-22 09:39:31,Salary,Withdrawal,2395.54,UPI,Bengaluru Indiranagar,Successful
+TXN0000829,2025-04-22 13:31:02,Salary,Payment,1011.88,UPI,Delhi Connaught Place,Successful
+TXN0000769,2025-04-23 17:27:53,Savings,Payment,1588.66,Debit Card,Kolkata Park Street,Successful
+TXN0000213,2025-04-24 09:57:53,Savings,Payment,140.26,UPI,Bengaluru Indiranagar,Successful
+TXN0000707,2025-04-24 15:39:12,Savings,Transfer,1208.78,UPI,Hyderabad Banjara Hills,Successful
+TXN0000523,2025-04-24 17:28:27,Salary,Withdrawal,364.29,UPI,Bengaluru Indiranagar,Successful
+TXN0000922,2025-04-25 12:20:42,Savings,Payment,3381.08,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000513,2025-04-25 23:18:29,Current,Withdrawal,1405.85,UPI,Mumbai Fort,Successful
+TXN0000813,2025-04-26 04:57:49,Savings,Transfer,1065.41,Credit Card,Hyderabad Banjara Hills,Failed
+TXN0000528,2025-04-26 10:00:54,Savings,Deposit,700.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000659,2025-04-26 14:36:30,Savings,Withdrawal,478.15,UPI,Kolkata Park Street,Successful
+TXN0000549,2025-04-26 16:51:37,Salary,Withdrawal,4989.17,Credit Card,Delhi Connaught Place,Failed
+TXN0000603,2025-04-26 17:55:58,Savings,Withdrawal,529.65,UPI,Mumbai Fort,Successful
+TXN0000070,2025-04-26 17:57:36,Savings,Withdrawal,2500.0,Debit Card,Mumbai Fort,Successful
+TXN0000817,2025-04-26 21:33:38,Savings,Withdrawal,9732.96,Bank Transfer,Chennai Central,Successful
+TXN0000835,2025-04-27 06:40:57,Savings,Deposit,660.34,UPI,Bengaluru Indiranagar,Successful
+TXN0000635,2025-04-27 07:04:40,Current,Transfer,2382.88,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000441,2025-04-27 18:58:42,Savings,Transfer,58907.32,Bank Transfer,Mumbai Fort,Successful
+TXN0000168,2025-04-28 08:52:03,Savings,Withdrawal,500.0,ATM,Mumbai Fort,Successful
+TXN0000819,2025-04-28 11:14:46,Savings,Transfer,21578.63,Bank Transfer,Chennai Central,Successful
+TXN0000030,2025-04-28 14:25:34,Savings,Transfer,5393.1,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000398,2025-04-28 18:06:33,Savings,Payment,1852.76,UPI,Chennai Central,Successful
+TXN0000284,2025-04-28 18:21:44,Current,Deposit,2860.57,Credit Card,Mumbai Fort,Successful
+TXN0000349,2025-04-29 10:35:40,Salary,Transfer,1098.34,UPI,Chennai Central,Successful
+TXN0000391,2025-04-29 10:47:49,Business,Deposit,1369.79,Credit Card,Delhi Connaught Place,Successful
+TXN0000681,2025-04-29 13:08:24,Savings,Transfer,2672.81,Debit Card,Chennai Central,Failed
+TXN0000704,2025-04-29 18:34:56,Current,Deposit,5318.04,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000350,2025-04-29 18:50:39,Current,Deposit,9610.31,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000034,2025-04-30 06:34:30,Savings,Deposit,2724.31,UPI,Delhi Connaught Place,Successful
+TXN0000818,2025-05-01 06:03:37,Current,Payment,6825.08,Credit Card,Kolkata Park Street,Successful
+TXN0000196,2025-05-01 07:00:05,Current,Deposit,1692.45,ATM,Delhi Connaught Place,Failed
+TXN0000527,2025-05-01 08:56:28,Savings,Withdrawal,935.23,UPI,Hyderabad Banjara Hills,Failed
+TXN0000498,2025-05-01 15:44:24,Savings,Transfer,2200.0,ATM,Mumbai Fort,Successful
+TXN0000519,2025-05-01 20:26:46,Savings,Transfer,557.83,Credit Card,Mumbai Fort,Successful
+TXN0000627,2025-05-02 11:54:33,Current,Transfer,1586.15,UPI,Delhi Connaught Place,Successful
+TXN0000923,2025-05-02 12:26:32,Current,Payment,2906.06,UPI,Hyderabad Banjara Hills,Successful
+TXN0000979,2025-05-02 16:52:35,Current,Withdrawal,13358.82,ATM,Bengaluru Indiranagar,Successful
+TXN0000662,2025-05-02 20:12:49,Business,Payment,2625.29,UPI,Chennai Central,Successful
+TXN0000200,2025-05-03 10:58:00,Current,Payment,6535.1,UPI,Hyderabad Banjara Hills,Successful
+TXN0000163,2025-05-03 19:15:50,Savings,Payment,2241.46,Debit Card,Chennai Central,Successful
+TXN0000751,2025-05-03 20:21:04,Savings,Transfer,840.74,UPI,Bengaluru Indiranagar,Successful
+TXN0000270,2025-05-03 20:44:35,Business,Deposit,4418.45,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000720,2025-05-04 07:28:16,Savings,Deposit,5200.0,ATM,Mumbai Fort,Failed
+TXN0000131,2025-05-04 08:02:15,Savings,Deposit,7879.03,Bank Transfer,Mumbai Fort,Successful
+TXN0000072,2025-05-05 12:13:56,Salary,Deposit,2200.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000332,2025-05-05 18:02:22,Current,Deposit,2658.37,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000465,2025-05-06 14:10:05,Business,Withdrawal,4872.09,UPI,Bengaluru Indiranagar,Successful
+TXN0000421,2025-05-06 20:28:37,Savings,Payment,5049.22,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000780,2025-05-06 22:12:34,Current,Transfer,12139.75,Debit Card,Chennai Central,Successful
+TXN0000763,2025-05-07 12:30:24,Savings,Deposit,750.45,Debit Card,Mumbai Fort,Successful
+TXN0000456,2025-05-07 15:28:01,Current,Deposit,191.79,Debit Card,Delhi Connaught Place,Successful
+TXN0000414,2025-05-07 17:09:04,Current,Deposit,2459.28,UPI,Bengaluru Indiranagar,Successful
+TXN0000497,2025-05-08 22:28:25,Savings,Deposit,2203.75,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000352,2025-05-09 16:35:19,Current,Deposit,1687.7,Debit Card,Chennai Central,Successful
+TXN0000746,2025-05-10 09:30:05,Current,Transfer,2237.51,UPI,Delhi Connaught Place,Successful
+TXN0000190,2025-05-10 14:26:05,Salary,Deposit,1070.85,UPI,Chennai Central,Successful
+TXN0000117,2025-05-10 17:18:10,Savings,Transfer,467.95,UPI,Hyderabad Banjara Hills,Failed
+TXN0000189,2025-05-11 08:23:08,Savings,Payment,2008.33,UPI,Chennai Central,Successful
+TXN0000599,2025-05-11 21:12:32,Current,Payment,2694.61,Debit Card,Mumbai Fort,Successful
+TXN0000288,2025-05-12 09:05:44,Savings,Transfer,700.0,ATM,Delhi Connaught Place,Successful
+TXN0000082,2025-05-12 18:45:53,Savings,Withdrawal,4073.67,UPI,Mumbai Fort,Successful
+TXN0000389,2025-05-13 05:50:44,Salary,Withdrawal,1631.88,Debit Card,Delhi Connaught Place,Successful
+TXN0000741,2025-05-13 20:04:35,Current,Withdrawal,3291.72,Debit Card,Mumbai Fort,Successful
+TXN0000485,2025-05-15 11:26:42,Savings,Transfer,10500.0,ATM,Delhi Connaught Place,Successful
+TXN0000046,2025-05-15 12:30:02,Savings,Payment,1517.91,Debit Card,Kolkata Park Street,Successful
+TXN0000232,2025-05-15 21:18:26,Savings,Transfer,1629.07,UPI,Mumbai Fort,Successful
+TXN0000754,2025-05-16 19:42:11,Savings,Withdrawal,564.3,UPI,Mumbai Fort,Successful
+TXN0000203,2025-05-17 12:26:10,Savings,Payment,496.52,UPI,Mumbai Fort,Successful
+TXN0000466,2025-05-17 18:49:39,Savings,Payment,10287.73,Bank Transfer,Mumbai Fort,Successful
+TXN0000756,2025-05-17 23:17:38,Salary,Deposit,1836.27,UPI,Bengaluru Indiranagar,Successful
+TXN0000959,2025-05-19 08:22:05,Savings,Deposit,5500.0,ATM,Delhi Connaught Place,Successful
+TXN0000845,2025-05-19 08:40:59,Savings,Transfer,699.64,UPI,Mumbai Fort,Successful
+TXN0000309,2025-05-19 10:27:46,Current,Withdrawal,5814.43,ATM,Bengaluru Indiranagar,Successful
+TXN0000982,2025-05-19 10:32:40,Current,Deposit,29361.55,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000628,2025-05-20 12:39:55,Current,Transfer,371.24,UPI,Bengaluru Indiranagar,Successful
+TXN0000961,2025-05-20 22:56:32,Current,Transfer,16438.3,Bank Transfer,Chennai Central,Successful
+TXN0000105,2025-05-21 09:21:03,Savings,Transfer,18103.58,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000988,2025-05-21 15:42:28,Current,Deposit,1883.92,UPI,Mumbai Fort,Successful
+TXN0000610,2025-05-21 17:18:07,Savings,Payment,5623.86,Bank Transfer,Delhi Connaught Place,Pending
+TXN0000986,2025-05-23 11:04:26,Current,Withdrawal,750.22,UPI,Chennai Central,Successful
+TXN0000960,2025-05-23 20:26:07,Business,Payment,567.75,UPI,Bengaluru Indiranagar,Successful
+TXN0000670,2025-05-24 09:40:59,Savings,Transfer,8875.85,Bank Transfer,Mumbai Fort,Successful
+TXN0000500,2025-05-24 16:42:56,Savings,Deposit,911.58,UPI,Chennai Central,Successful
+TXN0000137,2025-05-25 12:42:41,Savings,Transfer,1103.52,UPI,Bengaluru Indiranagar,Successful
+TXN0000548,2025-05-25 15:53:09,Business,Transfer,2269.08,UPI,Bengaluru Indiranagar,Successful
+TXN0000183,2025-05-26 11:41:56,Savings,Deposit,5100.0,ATM,Hyderabad Banjara Hills,Failed
+TXN0000580,2025-05-26 14:24:01,Current,Transfer,27187.24,ATM,Bengaluru Indiranagar,Successful
+TXN0000601,2025-05-27 07:45:34,Savings,Payment,3144.89,Debit Card,Delhi Connaught Place,Successful
+TXN0000170,2025-05-28 23:15:08,Savings,Payment,4516.17,Debit Card,Kolkata Park Street,Successful
+TXN0000317,2025-05-29 13:11:58,Savings,Withdrawal,290.55,UPI,Chennai Central,Successful
+TXN0000765,2025-05-30 07:22:25,Current,Withdrawal,2385.44,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000056,2025-05-30 18:49:53,Current,Withdrawal,8538.39,Debit Card,Delhi Connaught Place,Successful
+TXN0000609,2025-05-30 18:58:58,Salary,Deposit,2500.0,ATM,Mumbai Fort,Successful
+TXN0000013,2025-05-30 21:58:27,Salary,Withdrawal,629.37,UPI,Mumbai Fort,Successful
+TXN0000529,2025-05-31 04:53:09,Current,Withdrawal,2153.86,Credit Card,Chennai Central,Successful
+TXN0000903,2025-05-31 21:22:04,Savings,Withdrawal,700.0,ATM,Delhi Connaught Place,Successful
+TXN0000327,2025-06-01 11:12:37,Savings,Payment,5000.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000690,2025-06-01 16:03:12,Savings,Withdrawal,52.26,UPI,Mumbai Fort,Successful
+TXN0000955,2025-06-01 17:28:00,Savings,Withdrawal,620.96,Debit Card,Delhi Connaught Place,Successful
+TXN0000238,2025-06-01 22:51:48,Business,Transfer,4289.09,Credit Card,Delhi Connaught Place,Successful
+TXN0000841,2025-06-02 10:08:35,Salary,Withdrawal,3612.59,Credit Card,Chennai Central,Successful
+TXN0000100,2025-06-02 18:06:29,Savings,Payment,6287.94,UPI,Delhi Connaught Place,Successful
+TXN0000295,2025-06-03 11:32:25,Salary,Withdrawal,2700.0,ATM,Chennai Central,Successful
+TXN0000944,2025-06-03 16:19:20,Current,Withdrawal,10621.35,Credit Card,Chennai Central,Successful
+TXN0000760,2025-06-03 18:09:58,Current,Deposit,961.08,UPI,Mumbai Fort,Successful
+TXN0000977,2025-06-05 08:34:25,Current,Deposit,8781.53,UPI,Delhi Connaught Place,Successful
+TXN0000064,2025-06-05 16:27:50,Savings,Withdrawal,415.0,UPI,Hyderabad Banjara Hills,Successful
+TXN0000467,2025-06-06 18:06:15,Current,Payment,9259.54,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000016,2025-06-06 19:21:33,Current,Payment,1723.08,UPI,Mumbai Fort,Successful
+TXN0000941,2025-06-07 08:09:25,Current,Payment,8549.11,Debit Card,Mumbai Fort,Successful
+TXN0000328,2025-06-08 08:59:59,Savings,Transfer,1500.0,ATM,Chennai Central,Successful
+TXN0000695,2025-06-08 14:12:53,Business,Withdrawal,7483.17,Debit Card,Delhi Connaught Place,Successful
+TXN0000568,2025-06-08 21:29:49,Savings,Withdrawal,264.14,UPI,Chennai Central,Successful
+TXN0000470,2025-06-09 07:00:51,Savings,Transfer,3210.93,Credit Card,Chennai Central,Successful
+TXN0000306,2025-06-09 08:58:49,Salary,Transfer,141.13,Debit Card,Mumbai Fort,Successful
+TXN0000219,2025-06-09 10:44:01,Salary,Payment,436.16,UPI,Hyderabad Banjara Hills,Successful
+TXN0000525,2025-06-09 20:19:49,Savings,Deposit,511.94,UPI,Bengaluru Indiranagar,Successful
+TXN0000943,2025-06-09 21:53:40,Savings,Deposit,47.14,UPI,Mumbai Fort,Successful
+TXN0000517,2025-06-10 20:11:18,Salary,Transfer,427.45,Debit Card,Delhi Connaught Place,Successful
+TXN0000019,2025-06-11 10:00:25,Current,Payment,765.64,UPI,Delhi Connaught Place,Successful
+TXN0000300,2025-06-11 10:44:18,Savings,Deposit,2794.43,UPI,Bengaluru Indiranagar,Successful
+TXN0000090,2025-06-11 12:22:13,Current,Transfer,2408.77,UPI,Chennai Central,Successful
+TXN0000010,2025-06-11 17:46:28,Salary,Deposit,2399.09,Credit Card,Mumbai Fort,Successful
+TXN0000758,2025-06-12 11:05:08,Salary,Deposit,7575.45,Debit Card,Kolkata Park Street,Successful
+TXN0000651,2025-06-12 14:46:31,Savings,Transfer,99.94,UPI,Mumbai Fort,Successful
+TXN0000905,2025-06-13 12:50:51,Savings,Transfer,658.49,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000969,2025-06-13 17:12:03,Savings,Withdrawal,3000.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000683,2025-06-13 18:27:07,Current,Deposit,3542.35,UPI,Chennai Central,Successful
+TXN0000311,2025-06-14 09:24:36,Savings,Transfer,7836.85,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000785,2025-06-14 09:55:07,Business,Deposit,9543.67,UPI,Bengaluru Indiranagar,Successful
+TXN0000626,2025-06-14 10:03:08,Current,Deposit,9877.87,Debit Card,Chennai Central,Successful
+TXN0000855,2025-06-14 14:45:34,Savings,Payment,2000.0,ATM,Delhi Connaught Place,Successful
+TXN0000379,2025-06-14 18:45:00,Savings,Transfer,1494.11,UPI,Mumbai Fort,Successful
+TXN0000099,2025-06-14 23:03:24,Savings,Transfer,1000.0,ATM,Kolkata Park Street,Successful
+TXN0000604,2025-06-15 12:43:31,Current,Transfer,16987.77,ATM,Bengaluru Indiranagar,Successful
+TXN0000827,2025-06-15 15:45:00,Savings,Withdrawal,1874.91,Debit Card,Delhi Connaught Place,Successful
+TXN0000407,2025-06-16 05:51:25,Savings,Withdrawal,2044.82,UPI,Chennai Central,Successful
+TXN0000066,2025-06-16 10:55:33,Savings,Deposit,756.75,Credit Card,Kolkata Park Street,Successful
+TXN0000138,2025-06-16 14:13:32,Savings,Withdrawal,700.0,ATM,Mumbai Fort,Successful
+TXN0000872,2025-06-16 18:40:17,Salary,Transfer,2449.58,UPI,Bengaluru Indiranagar,Successful
+TXN0000331,2025-06-16 20:02:06,Savings,Transfer,1719.61,UPI,Kolkata Park Street,Successful
+TXN0000491,2025-06-16 23:56:31,Savings,Transfer,429.25,UPI,Mumbai Fort,Successful
+TXN0000823,2025-06-17 06:57:08,Salary,Transfer,2409.87,Credit Card,Chennai Central,Successful
+TXN0000268,2025-06-17 11:28:29,Savings,Withdrawal,500.0,ATM,Mumbai Fort,Successful
+TXN0000448,2025-06-17 20:14:22,Current,Transfer,1680.77,UPI,Mumbai Fort,Successful
+TXN0000434,2025-06-18 16:01:13,Savings,Deposit,4389.38,Debit Card,Mumbai Fort,Successful
+TXN0000194,2025-06-18 21:18:51,Business,Deposit,3210.49,UPI,Hyderabad Banjara Hills,Successful
+TXN0000826,2025-06-18 21:22:15,Savings,Withdrawal,6038.9,Bank Transfer,Chennai Central,Successful
+TXN0000308,2025-06-19 12:30:40,Current,Deposit,587.54,UPI,Mumbai Fort,Successful
+TXN0000304,2025-06-19 19:15:44,Savings,Transfer,2669.92,UPI,Mumbai Fort,Successful
+TXN0000674,2025-06-19 20:33:59,Savings,Deposit,716.41,UPI,Mumbai Fort,Successful
+TXN0000369,2025-06-20 00:13:46,Salary,Deposit,2600.0,ATM,Chennai Central,Successful
+TXN0000297,2025-06-20 06:38:11,Savings,Deposit,49524.81,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000804,2025-06-20 08:03:25,Savings,Transfer,340.03,UPI,Mumbai Fort,Successful
+TXN0000952,2025-06-20 15:58:22,Savings,Deposit,853.56,Credit Card,Mumbai Fort,Successful
+TXN0000330,2025-06-20 19:39:42,Business,Withdrawal,4211.26,UPI,Delhi Connaught Place,Successful
+TXN0000729,2025-06-21 13:23:45,Savings,Deposit,3085.78,UPI,Mumbai Fort,Pending
+TXN0000475,2025-06-21 14:58:29,Salary,Payment,13533.24,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000586,2025-06-21 17:34:26,Current,Transfer,2430.67,Debit Card,Mumbai Fort,Successful
+TXN0000865,2025-06-22 07:45:50,Current,Withdrawal,1053.92,UPI,Chennai Central,Successful
+TXN0000660,2025-06-22 08:42:24,Salary,Withdrawal,1683.05,UPI,Mumbai Fort,Successful
+TXN0000508,2025-06-22 16:08:20,Savings,Deposit,5258.09,Credit Card,Chennai Central,Successful
+TXN0000005,2025-06-22 16:35:21,Savings,Withdrawal,685.8,UPI,Bengaluru Indiranagar,Successful
+TXN0000815,2025-06-22 18:30:51,Current,Deposit,11266.55,ATM,Bengaluru Indiranagar,Successful
+TXN0000419,2025-06-23 08:41:06,Current,Payment,432.91,UPI,Hyderabad Banjara Hills,Successful
+TXN0000592,2025-06-23 10:18:33,Savings,Transfer,26816.32,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000486,2025-06-23 14:07:08,Savings,Withdrawal,14568.22,Bank Transfer,Bengaluru Indiranagar,Failed
+TXN0000242,2025-06-23 19:12:10,Current,Transfer,43405.83,Bank Transfer,Mumbai Fort,Successful
+TXN0000688,2025-06-23 19:26:39,Current,Withdrawal,2687.95,UPI,Chennai Central,Successful
+TXN0000071,2025-06-24 08:05:17,Current,Payment,209435.11,Bank Transfer,Mumbai Fort,Successful
+TXN0000664,2025-06-24 16:36:59,Savings,Payment,1607.1,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000004,2025-06-24 19:54:03,Current,Transfer,1211.66,Credit Card,Mumbai Fort,Successful
+TXN0000811,2025-06-24 20:37:14,Salary,Payment,3581.79,Debit Card,Chennai Central,Successful
+TXN0000091,2025-06-25 11:51:48,Business,Transfer,3444.96,Credit Card,Mumbai Fort,Successful
+TXN0000068,2025-06-25 16:32:06,Savings,Transfer,8215.18,UPI,Mumbai Fort,Successful
+TXN0000087,2025-06-25 20:44:37,Savings,Transfer,1070.99,Debit Card,Mumbai Fort,Successful
+TXN0000939,2025-06-26 07:48:48,Current,Payment,351.29,Debit Card,Delhi Connaught Place,Failed
+TXN0000378,2025-06-26 18:28:51,Current,Withdrawal,1023.49,Credit Card,Chennai Central,Successful
+TXN0000365,2025-06-27 07:23:53,Salary,Withdrawal,27024.39,Bank Transfer,Chennai Central,Successful
+TXN0000276,2025-06-28 17:41:59,Business,Withdrawal,12274.27,Debit Card,Delhi Connaught Place,Successful
+TXN0000048,2025-06-28 19:01:40,Savings,Payment,1069.36,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000147,2025-06-30 05:35:39,Salary,Withdrawal,1378.3,UPI,Bengaluru Indiranagar,Successful
+TXN0000647,2025-06-30 08:08:22,Savings,Deposit,39355.49,Bank Transfer,Hyderabad Banjara Hills,Failed
+TXN0000039,2025-06-30 10:43:17,Savings,Withdrawal,449.06,UPI,Mumbai Fort,Successful
+TXN0000742,2025-07-01 10:09:55,Current,Deposit,742.56,UPI,Bengaluru Indiranagar,Successful
+TXN0000277,2025-07-02 08:34:19,Savings,Transfer,2748.81,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000612,2025-07-02 15:09:43,Savings,Transfer,2406.2,UPI,Bengaluru Indiranagar,Successful
+TXN0000740,2025-07-03 07:00:30,Savings,Withdrawal,1194.5,UPI,Hyderabad Banjara Hills,Successful
+TXN0000198,2025-07-03 12:43:11,Current,Withdrawal,84356.57,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000970,2025-07-03 22:26:55,Current,Deposit,3654.23,Debit Card,Chennai Central,Successful
+TXN0000581,2025-07-03 23:46:05,Current,Deposit,1889.26,UPI,Hyderabad Banjara Hills,Failed
+TXN0000188,2025-07-04 10:03:58,Salary,Transfer,10536.57,Debit Card,Chennai Central,Successful
+TXN0000149,2025-07-05 17:13:24,Savings,Payment,74.29,UPI,Delhi Connaught Place,Successful
+TXN0000029,2025-07-06 05:00:57,Current,Deposit,16122.44,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000217,2025-07-06 10:04:53,Business,Payment,8985.57,UPI,Mumbai Fort,Successful
+TXN0000770,2025-07-06 19:27:30,Current,Transfer,6999.0,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000984,2025-07-06 20:45:12,Current,Payment,1551.46,Debit Card,Bengaluru Indiranagar,Failed
+TXN0000727,2025-07-07 09:45:39,Savings,Deposit,845.58,UPI,Delhi Connaught Place,Successful
+TXN0000373,2025-07-07 10:53:56,Current,Payment,3612.42,Debit Card,Mumbai Fort,Successful
+TXN0000697,2025-07-07 13:48:56,Savings,Transfer,868.79,Credit Card,Mumbai Fort,Successful
+TXN0000712,2025-07-07 20:21:39,Current,Transfer,2212.79,UPI,Hyderabad Banjara Hills,Successful
+TXN0000296,2025-07-08 08:22:04,Salary,Transfer,56007.46,Bank Transfer,Chennai Central,Successful
+TXN0000110,2025-07-09 11:57:14,Savings,Deposit,15933.9,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000710,2025-07-09 13:53:50,Current,Deposit,14057.5,Credit Card,Chennai Central,Successful
+TXN0000786,2025-07-09 16:28:58,Savings,Transfer,757.61,Debit Card,Delhi Connaught Place,Successful
+TXN0000933,2025-07-09 19:22:54,Savings,Transfer,3711.72,Credit Card,Chennai Central,Successful
+TXN0000657,2025-07-10 07:58:52,Savings,Withdrawal,1278.94,UPI,Delhi Connaught Place,Successful
+TXN0000552,2025-07-10 14:42:46,Current,Deposit,1383.19,ATM,Mumbai Fort,Successful
+TXN0000244,2025-07-10 18:48:26,Savings,Withdrawal,258.92,Credit Card,Mumbai Fort,Successful
+TXN0000805,2025-07-10 23:42:56,Savings,Transfer,394.0,UPI,Delhi Connaught Place,Successful
+TXN0000699,2025-07-11 07:43:01,Savings,Transfer,144.22,UPI,Mumbai Fort,Failed
+TXN0000687,2025-07-11 11:22:37,Salary,Withdrawal,2303.9,UPI,Mumbai Fort,Successful
+TXN0000023,2025-07-11 17:32:02,Savings,Transfer,10100.0,ATM,Delhi Connaught Place,Successful
+TXN0000401,2025-07-11 17:54:08,Savings,Transfer,2945.9,UPI,Bengaluru Indiranagar,Successful
+TXN0000094,2025-07-12 08:32:16,Business,Withdrawal,5966.46,Debit Card,Bengaluru Indiranagar,Failed
+TXN0000678,2025-07-12 13:17:37,Current,Deposit,4623.51,Debit Card,Mumbai Fort,Successful
+TXN0000655,2025-07-12 15:46:28,Savings,Withdrawal,721.9,UPI,Delhi Connaught Place,Successful
+TXN0000287,2025-07-12 18:06:12,Savings,Transfer,2266.42,UPI,Kolkata Park Street,Failed
+TXN0000556,2025-07-12 19:22:06,Savings,Payment,8614.64,Bank Transfer,Chennai Central,Successful
+TXN0000777,2025-07-13 15:04:37,Current,Withdrawal,4507.86,Credit Card,Delhi Connaught Place,Successful
+TXN0000009,2025-07-13 17:04:00,Salary,Transfer,709.88,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000676,2025-07-14 00:54:31,Current,Withdrawal,38524.54,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000608,2025-07-14 18:35:08,Current,Transfer,588.03,UPI,Chennai Central,Successful
+TXN0000649,2025-07-15 07:47:05,Savings,Transfer,937.18,UPI,Delhi Connaught Place,Successful
+TXN0000625,2025-07-15 08:22:11,Savings,Payment,988.2,UPI,Mumbai Fort,Successful
+TXN0000555,2025-07-15 09:07:36,Current,Transfer,18918.35,Debit Card,Kolkata Park Street,Successful
+TXN0000949,2025-07-15 11:33:23,Savings,Deposit,426.84,UPI,Chennai Central,Failed
+TXN0000388,2025-07-15 17:36:26,Savings,Withdrawal,1238.17,UPI,Bengaluru Indiranagar,Failed
+TXN0000863,2025-07-16 08:46:49,Current,Transfer,14755.87,Bank Transfer,Delhi Connaught Place,Failed
+TXN0000859,2025-07-16 09:22:13,Salary,Deposit,2581.83,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000964,2025-07-16 18:31:24,Salary,Payment,3245.1,UPI,Chennai Central,Failed
+TXN0000803,2025-07-17 10:48:20,Savings,Payment,6300.38,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000060,2025-07-17 11:27:03,Salary,Transfer,297.0,UPI,Bengaluru Indiranagar,Successful
+TXN0000184,2025-07-18 07:01:16,Savings,Withdrawal,10000.0,ATM,Mumbai Fort,Successful
+TXN0000809,2025-07-18 08:55:02,Savings,Transfer,326.58,Debit Card,Delhi Connaught Place,Successful
+TXN0000027,2025-07-18 15:36:49,Savings,Withdrawal,2000.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000636,2025-07-19 03:49:53,Savings,Withdrawal,79.03,UPI,Chennai Central,Successful
+TXN0000204,2025-07-19 13:52:19,Salary,Deposit,500.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000444,2025-07-20 08:25:35,Savings,Transfer,2591.73,UPI,Bengaluru Indiranagar,Successful
+TXN0000566,2025-07-20 14:26:52,Savings,Withdrawal,4017.56,UPI,Chennai Central,Failed
+TXN0000418,2025-07-20 14:46:49,Savings,Deposit,3916.23,Debit Card,Mumbai Fort,Successful
+TXN0000126,2025-07-20 15:26:51,Savings,Deposit,121.63,UPI,Chennai Central,Successful
+TXN0000432,2025-07-21 07:43:31,Savings,Payment,13327.37,Bank Transfer,Bengaluru Indiranagar,Pending
+TXN0000771,2025-07-21 12:30:18,Savings,Transfer,1100.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000206,2025-07-21 17:17:36,Salary,Deposit,649.58,UPI,Delhi Connaught Place,Successful
+TXN0000474,2025-07-22 08:15:23,Salary,Transfer,15053.49,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000374,2025-07-22 10:34:44,Salary,Withdrawal,5317.73,Credit Card,Chennai Central,Successful
+TXN0000794,2025-07-22 17:29:39,Current,Payment,1146.11,UPI,Delhi Connaught Place,Failed
+TXN0000073,2025-07-23 10:02:32,Salary,Transfer,600.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000807,2025-07-23 11:50:32,Savings,Deposit,2464.22,Credit Card,Kolkata Park Street,Successful
+TXN0000669,2025-07-23 15:33:08,Savings,Transfer,2100.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000081,2025-07-23 18:49:01,Savings,Payment,5373.01,Debit Card,Chennai Central,Successful
+TXN0000995,2025-07-23 19:06:07,Current,Deposit,8302.54,Debit Card,Chennai Central,Successful
+TXN0000853,2025-07-24 04:17:39,Current,Deposit,3637.95,Bank Transfer,Kolkata Park Street,Successful
+TXN0000338,2025-07-24 13:01:39,Savings,Withdrawal,2700.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000971,2025-07-24 17:47:33,Salary,Payment,731.43,UPI,Kolkata Park Street,Successful
+TXN0000761,2025-07-25 08:05:31,Savings,Transfer,656.72,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000045,2025-07-26 11:01:20,Savings,Transfer,1317.94,UPI,Bengaluru Indiranagar,Successful
+TXN0000226,2025-07-27 07:27:42,Business,Transfer,2768.28,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000938,2025-07-27 14:58:59,Savings,Payment,197.76,UPI,Hyderabad Banjara Hills,Successful
+TXN0000654,2025-07-28 11:47:46,Salary,Payment,974.52,Credit Card,Mumbai Fort,Successful
+TXN0000002,2025-07-28 13:17:06,Savings,Withdrawal,1726.12,Credit Card,Mumbai Fort,Successful
+TXN0000573,2025-07-28 17:11:38,Current,Deposit,59113.54,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000753,2025-07-29 16:47:14,Savings,Transfer,1063.3,UPI,Bengaluru Indiranagar,Successful
+TXN0000921,2025-07-29 17:13:08,Salary,Deposit,926.28,Debit Card,Hyderabad Banjara Hills,Failed
+TXN0000589,2025-07-30 10:15:01,Salary,Transfer,625.18,UPI,Hyderabad Banjara Hills,Successful
+TXN0000902,2025-07-30 17:37:45,Salary,Transfer,944.35,Debit Card,Hyderabad Banjara Hills,Failed
+TXN0000133,2025-07-31 08:41:20,Current,Transfer,4356.42,Credit Card,Mumbai Fort,Successful
+TXN0000828,2025-07-31 10:16:40,Current,Withdrawal,71387.9,Debit Card,Mumbai Fort,Successful
+TXN0000981,2025-07-31 13:59:26,Savings,Transfer,604.53,UPI,Delhi Connaught Place,Successful
+TXN0000140,2025-08-01 07:14:32,Savings,Deposit,4355.65,Debit Card,Chennai Central,Successful
+TXN0000325,2025-08-01 11:09:10,Business,Deposit,1388.73,UPI,Mumbai Fort,Successful
+TXN0000591,2025-08-01 16:39:31,Business,Transfer,3423.68,Credit Card,Delhi Connaught Place,Successful
+TXN0000844,2025-08-02 10:51:43,Savings,Payment,1100.0,ATM,Chennai Central,Successful
+TXN0000118,2025-08-02 14:22:27,Savings,Transfer,282.3,UPI,Mumbai Fort,Failed
+TXN0000393,2025-08-02 16:17:49,Savings,Deposit,2910.53,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000253,2025-08-02 20:50:57,Current,Deposit,10549.87,UPI,Mumbai Fort,Successful
+TXN0000931,2025-08-03 06:46:58,Current,Payment,11225.08,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000050,2025-08-03 21:04:45,Salary,Withdrawal,1041.74,Debit Card,Mumbai Fort,Successful
+TXN0000153,2025-08-03 23:08:56,Salary,Deposit,117.82,UPI,Delhi Connaught Place,Successful
+TXN0000820,2025-08-04 08:04:46,Current,Transfer,834.42,UPI,Chennai Central,Successful
+TXN0000692,2025-08-04 13:10:21,Business,Transfer,2122.57,UPI,Bengaluru Indiranagar,Successful
+TXN0000540,2025-08-04 16:55:31,Savings,Transfer,7026.41,Debit Card,Chennai Central,Successful
+TXN0000282,2025-08-04 18:25:45,Savings,Deposit,2500.0,ATM,Mumbai Fort,Successful
+TXN0000173,2025-08-04 19:35:23,Current,Payment,1872.66,UPI,Bengaluru Indiranagar,Successful
+TXN0000987,2025-08-05 18:21:06,Salary,Deposit,1500.0,ATM,Mumbai Fort,Successful
+TXN0000530,2025-08-05 18:57:53,Salary,Transfer,10000.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000645,2025-08-06 17:22:32,Savings,Transfer,3168.27,UPI,Mumbai Fort,Successful
+TXN0000605,2025-08-06 17:44:22,Current,Payment,1747.97,Credit Card,Kolkata Park Street,Successful
+TXN0000182,2025-08-07 10:49:30,Savings,Transfer,409.18,UPI,Bengaluru Indiranagar,Successful
+TXN0000839,2025-08-07 17:29:22,Salary,Withdrawal,600.0,ATM,Delhi Connaught Place,Successful
+TXN0000371,2025-08-08 10:23:24,Savings,Deposit,659.89,Debit Card,Delhi Connaught Place,Successful
+TXN0000107,2025-08-08 12:42:31,Savings,Transfer,164.58,UPI,Delhi Connaught Place,Successful
+TXN0000164,2025-08-09 19:21:42,Savings,Payment,681.0,UPI,Hyderabad Banjara Hills,Successful
+TXN0000339,2025-08-10 13:27:46,Savings,Deposit,1584.82,Credit Card,Chennai Central,Failed
+TXN0000375,2025-08-10 15:43:41,Savings,Transfer,600.0,ATM,Delhi Connaught Place,Successful
+TXN0000040,2025-08-11 10:40:26,Savings,Deposit,232.11,UPI,Bengaluru Indiranagar,Successful
+TXN0000216,2025-08-11 20:45:34,Salary,Payment,2024.45,Credit Card,Mumbai Fort,Successful
+TXN0000616,2025-08-12 08:07:59,Savings,Deposit,1161.4,UPI,Bengaluru Indiranagar,Successful
+TXN0000293,2025-08-12 09:28:45,Current,Withdrawal,3998.77,Credit Card,Delhi Connaught Place,Successful
+TXN0000477,2025-08-12 10:31:02,Current,Transfer,9871.84,UPI,Mumbai Fort,Successful
+TXN0000135,2025-08-12 11:44:18,Savings,Withdrawal,35.38,UPI,Bengaluru Indiranagar,Successful
+TXN0000450,2025-08-12 19:40:21,Current,Deposit,1810.65,UPI,Hyderabad Banjara Hills,Successful
+TXN0000103,2025-08-13 07:36:36,Current,Transfer,982.62,UPI,Kolkata Park Street,Successful
+TXN0000416,2025-08-13 17:54:03,Savings,Withdrawal,1261.0,UPI,Hyderabad Banjara Hills,Successful
+TXN0000197,2025-08-14 08:53:24,Savings,Transfer,1022.86,UPI,Delhi Connaught Place,Successful
+TXN0000162,2025-08-14 20:51:52,Current,Payment,48493.23,Bank Transfer,Mumbai Fort,Successful
+TXN0000909,2025-08-15 07:08:46,Savings,Withdrawal,1759.97,UPI,Bengaluru Indiranagar,Successful
+TXN0000840,2025-08-15 19:04:42,Savings,Deposit,1290.05,Debit Card,Chennai Central,Successful
+TXN0000723,2025-08-16 13:00:30,Current,Payment,43225.73,Debit Card,Chennai Central,Successful
+TXN0000179,2025-08-16 18:55:06,Current,Withdrawal,3769.08,Debit Card,Chennai Central,Successful
+TXN0000870,2025-08-16 21:17:49,Current,Withdrawal,9271.41,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000483,2025-08-17 16:01:55,Savings,Withdrawal,1036.77,UPI,Hyderabad Banjara Hills,Successful
+TXN0000814,2025-08-18 09:55:53,Savings,Transfer,4123.37,UPI,Chennai Central,Successful
+TXN0000127,2025-08-18 12:07:03,Savings,Payment,279.55,UPI,Mumbai Fort,Failed
+TXN0000292,2025-08-18 13:59:46,Salary,Transfer,11791.78,Bank Transfer,Mumbai Fort,Successful
+TXN0000893,2025-08-18 16:26:30,Current,Deposit,1089.31,UPI,Delhi Connaught Place,Successful
+TXN0000520,2025-08-18 16:48:10,Savings,Withdrawal,1580.22,Credit Card,Delhi Connaught Place,Failed
+TXN0000927,2025-08-18 20:40:10,Savings,Payment,2538.91,Credit Card,Mumbai Fort,Successful
+TXN0000913,2025-08-19 07:03:14,Savings,Withdrawal,2619.23,Debit Card,Delhi Connaught Place,Successful
+TXN0000366,2025-08-19 13:28:24,Savings,Transfer,1069.04,UPI,Delhi Connaught Place,Successful
+TXN0000634,2025-08-21 10:03:03,Savings,Withdrawal,3187.68,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000904,2025-08-21 18:06:13,Current,Withdrawal,2317.2,Debit Card,Mumbai Fort,Successful
+TXN0000703,2025-08-21 18:10:06,Savings,Transfer,841.72,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000554,2025-08-21 19:14:13,Savings,Transfer,634.26,UPI,Chennai Central,Failed
+TXN0000724,2025-08-22 08:40:32,Salary,Transfer,3971.48,Debit Card,Chennai Central,Successful
+TXN0000701,2025-08-22 16:02:09,Savings,Payment,2116.17,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000158,2025-08-23 09:27:59,Savings,Transfer,1500.0,ATM,Delhi Connaught Place,Successful
+TXN0000394,2025-08-23 12:34:47,Salary,Withdrawal,138.79,UPI,Bengaluru Indiranagar,Successful
+TXN0000966,2025-08-24 06:20:52,Current,Transfer,2676.07,UPI,Mumbai Fort,Successful
+TXN0000089,2025-08-24 08:23:42,Business,Transfer,5178.67,Debit Card,Kolkata Park Street,Successful
+TXN0000767,2025-08-24 12:31:56,Savings,Deposit,1571.81,Credit Card,Delhi Connaught Place,Successful
+TXN0000146,2025-08-24 12:59:55,Savings,Deposit,1044.76,UPI,Mumbai Fort,Successful
+TXN0000989,2025-08-24 14:19:31,Savings,Withdrawal,953.04,Debit Card,Mumbai Fort,Successful
+TXN0000641,2025-08-24 18:30:19,Savings,Transfer,660.81,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000461,2025-08-25 17:04:42,Current,Deposit,572.52,UPI,Chennai Central,Successful
+TXN0000036,2025-08-25 23:02:00,Savings,Deposit,4889.55,Debit Card,Kolkata Park Street,Successful
+TXN0000112,2025-08-26 08:32:57,Savings,Withdrawal,818.9,UPI,Delhi Connaught Place,Successful
+TXN0000487,2025-08-26 13:42:08,Savings,Transfer,7929.09,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000397,2025-08-26 16:49:27,Salary,Transfer,1282.23,UPI,Kolkata Park Street,Successful
+TXN0000876,2025-08-26 18:06:58,Savings,Withdrawal,2068.72,UPI,Delhi Connaught Place,Successful
+TXN0000538,2025-08-27 03:30:42,Salary,Payment,1277.14,Credit Card,Chennai Central,Successful
+TXN0000321,2025-08-27 11:44:40,Savings,Payment,2164.62,Debit Card,Mumbai Fort,Successful
+TXN0000650,2025-08-27 17:33:17,Salary,Transfer,5200.0,ATM,Kolkata Park Street,Successful
+TXN0000310,2025-08-27 23:06:58,Current,Withdrawal,5002.84,UPI,Kolkata Park Street,Successful
+TXN0000640,2025-08-28 05:49:34,Savings,Deposit,243.93,UPI,Mumbai Fort,Successful
+TXN0000359,2025-08-28 22:54:19,Savings,Deposit,1000.0,ATM,Delhi Connaught Place,Successful
+TXN0000954,2025-08-29 00:47:14,Current,Transfer,43244.64,Bank Transfer,Mumbai Fort,Successful
+TXN0000015,2025-08-29 11:53:02,Savings,Transfer,486.3,UPI,Chennai Central,Successful
+TXN0000275,2025-08-29 17:27:40,Current,Payment,205264.98,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000263,2025-08-29 18:09:17,Current,Withdrawal,64942.27,Bank Transfer,Chennai Central,Successful
+TXN0000413,2025-08-29 18:18:08,Current,Withdrawal,12898.99,ATM,Chennai Central,Successful
+TXN0000550,2025-08-30 09:44:20,Savings,Transfer,520.55,UPI,Hyderabad Banjara Hills,Successful
+TXN0000224,2025-08-30 11:39:24,Current,Payment,3357.2,Debit Card,Delhi Connaught Place,Successful
+TXN0000302,2025-08-30 13:23:14,Current,Deposit,17906.29,UPI,Mumbai Fort,Successful
+TXN0000266,2025-08-30 16:25:20,Savings,Transfer,16318.41,Bank Transfer,Mumbai Fort,Successful
+TXN0000836,2025-08-31 12:38:48,Current,Withdrawal,27837.91,ATM,Bengaluru Indiranagar,Successful
+TXN0000479,2025-08-31 14:25:12,Current,Deposit,16800.69,ATM,Bengaluru Indiranagar,Successful
+TXN0000848,2025-08-31 18:55:16,Savings,Withdrawal,5000.0,ATM,Mumbai Fort,Successful
+TXN0000748,2025-08-31 19:39:20,Savings,Withdrawal,1157.17,UPI,Delhi Connaught Place,Pending
+TXN0000878,2025-08-31 22:56:06,Business,Withdrawal,5521.5,Debit Card,Chennai Central,Successful
+TXN0000154,2025-09-01 06:08:54,Savings,Payment,4035.88,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000728,2025-09-01 07:34:23,Savings,Withdrawal,601.17,Debit Card,Kolkata Park Street,Successful
+TXN0000305,2025-09-01 13:35:14,Savings,Payment,5908.54,Debit Card,Kolkata Park Street,Successful
+TXN0000144,2025-09-01 17:46:46,Savings,Deposit,2370.06,UPI,Bengaluru Indiranagar,Successful
+TXN0000376,2025-09-01 18:14:43,Savings,Transfer,2803.02,UPI,Chennai Central,Successful
+TXN0000578,2025-09-02 09:54:35,Savings,Payment,45.82,UPI,Chennai Central,Successful
+TXN0000405,2025-09-03 06:34:40,Salary,Payment,2700.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000360,2025-09-03 13:22:23,Savings,Deposit,335.67,Credit Card,Delhi Connaught Place,Successful
+TXN0000890,2025-09-03 13:44:46,Current,Withdrawal,6051.15,UPI,Mumbai Fort,Successful
+TXN0000821,2025-09-04 04:00:36,Savings,Deposit,579.64,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000911,2025-09-04 08:51:55,Savings,Withdrawal,9406.89,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000895,2025-09-04 13:44:23,Savings,Transfer,3943.95,Bank Transfer,Chennai Central,Successful
+TXN0000395,2025-09-04 19:39:02,Salary,Withdrawal,1601.57,Credit Card,Kolkata Park Street,Failed
+TXN0000759,2025-09-05 09:44:06,Savings,Withdrawal,2627.45,UPI,Chennai Central,Successful
+TXN0000812,2025-09-05 17:21:16,Current,Transfer,3131.03,UPI,Delhi Connaught Place,Successful
+TXN0000080,2025-09-05 19:31:46,Savings,Transfer,1271.02,UPI,Mumbai Fort,Successful
+TXN0000643,2025-09-06 20:47:15,Savings,Deposit,23.89,UPI,Delhi Connaught Place,Successful
+TXN0000776,2025-09-07 17:51:36,Current,Transfer,718.66,UPI,Bengaluru Indiranagar,Successful
+TXN0000285,2025-09-08 12:07:25,Savings,Payment,2329.63,Credit Card,Delhi Connaught Place,Successful
+TXN0000749,2025-09-08 19:40:07,Business,Transfer,1781.66,UPI,Kolkata Park Street,Successful
+TXN0000606,2025-09-08 22:54:03,Current,Withdrawal,11088.06,UPI,Bengaluru Indiranagar,Successful
+TXN0000883,2025-09-09 18:46:51,Current,Transfer,63803.04,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000802,2025-09-10 19:11:29,Current,Withdrawal,3302.12,Credit Card,Mumbai Fort,Successful
+TXN0000957,2025-09-11 12:13:04,Savings,Withdrawal,183.2,UPI,Hyderabad Banjara Hills,Successful
+TXN0000569,2025-09-11 14:24:09,Savings,Transfer,984.32,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000774,2025-09-11 15:19:57,Savings,Transfer,259.87,UPI,Bengaluru Indiranagar,Successful
+TXN0000399,2025-09-11 16:02:58,Savings,Transfer,275.86,UPI,Bengaluru Indiranagar,Successful
+TXN0000033,2025-09-11 23:48:40,Savings,Payment,16269.04,Bank Transfer,Chennai Central,Successful
+TXN0000143,2025-09-12 07:55:02,Current,Withdrawal,240.9,UPI,Delhi Connaught Place,Successful
+TXN0000458,2025-09-12 10:47:30,Current,Withdrawal,6861.17,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000708,2025-09-12 14:11:53,Savings,Deposit,2278.45,UPI,Mumbai Fort,Successful
+TXN0000211,2025-09-12 15:02:27,Current,Deposit,3171.81,UPI,Chennai Central,Failed
+TXN0000251,2025-09-12 19:21:20,Savings,Withdrawal,644.88,UPI,Delhi Connaught Place,Successful
+TXN0000934,2025-09-12 20:08:10,Savings,Payment,713.4,UPI,Bengaluru Indiranagar,Successful
+TXN0000545,2025-09-13 20:01:25,Savings,Withdrawal,1798.43,UPI,Chennai Central,Successful
+TXN0000443,2025-09-13 20:21:21,Business,Transfer,17759.75,Credit Card,Chennai Central,Successful
+TXN0000031,2025-09-14 17:46:52,Savings,Transfer,2103.95,Debit Card,Mumbai Fort,Successful
+TXN0000084,2025-09-14 19:59:08,Current,Transfer,5223.77,Credit Card,Delhi Connaught Place,Successful
+TXN0000928,2025-09-15 06:06:26,Salary,Withdrawal,905.31,UPI,Bengaluru Indiranagar,Successful
+TXN0000773,2025-09-15 08:29:33,Savings,Payment,1662.54,UPI,Bengaluru Indiranagar,Successful
+TXN0000098,2025-09-15 09:52:38,Savings,Transfer,795.58,UPI,Delhi Connaught Place,Successful
+TXN0000356,2025-09-16 06:04:27,Business,Withdrawal,69490.41,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000074,2025-09-16 10:12:48,Savings,Transfer,628.13,UPI,Kolkata Park Street,Successful
+TXN0000543,2025-09-16 11:36:01,Savings,Deposit,377.59,UPI,Bengaluru Indiranagar,Successful
+TXN0000343,2025-09-16 17:09:43,Current,Payment,692.04,UPI,Chennai Central,Successful
+TXN0000176,2025-09-17 10:48:00,Salary,Transfer,270.39,UPI,Bengaluru Indiranagar,Successful
+TXN0000714,2025-09-17 10:58:17,Savings,Payment,6366.87,Debit Card,Mumbai Fort,Successful
+TXN0000457,2025-09-17 12:13:30,Current,Payment,6251.68,ATM,Delhi Connaught Place,Successful
+TXN0000248,2025-09-17 17:43:45,Savings,Transfer,1000.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000315,2025-09-18 08:28:43,Savings,Payment,5200.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000658,2025-09-18 10:30:56,Savings,Payment,3886.83,UPI,Bengaluru Indiranagar,Pending
+TXN0000262,2025-09-18 13:41:11,Salary,Deposit,2500.0,ATM,Mumbai Fort,Successful
+TXN0000584,2025-09-18 14:44:39,Current,Withdrawal,230425.29,Bank Transfer,Chennai Central,Successful
+TXN0000427,2025-09-18 15:37:23,Savings,Deposit,1871.24,Debit Card,Mumbai Fort,Successful
+TXN0000888,2025-09-19 16:41:18,Savings,Payment,4572.1,Debit Card,Chennai Central,Successful
+TXN0000404,2025-09-19 18:34:32,Savings,Deposit,364.78,UPI,Bengaluru Indiranagar,Successful
+TXN0000231,2025-09-19 20:26:45,Savings,Transfer,2081.17,Credit Card,Chennai Central,Successful
+TXN0000355,2025-09-20 07:19:31,Current,Withdrawal,1554.21,ATM,Bengaluru Indiranagar,Successful
+TXN0000884,2025-09-21 06:56:41,Business,Payment,12772.84,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000067,2025-09-21 12:35:08,Savings,Payment,1174.72,Credit Card,Mumbai Fort,Successful
+TXN0000438,2025-09-21 19:24:24,Savings,Withdrawal,1511.82,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000409,2025-09-22 09:39:13,Savings,Withdrawal,7881.6,Bank Transfer,Chennai Central,Successful
+TXN0000058,2025-09-22 12:07:40,Savings,Payment,538.23,Debit Card,Mumbai Fort,Failed
+TXN0000129,2025-09-22 13:22:09,Salary,Transfer,2600.0,ATM,Delhi Connaught Place,Successful
+TXN0000967,2025-09-22 16:14:53,Salary,Transfer,13088.13,Credit Card,Mumbai Fort,Successful
+TXN0000281,2025-09-22 21:00:38,Current,Withdrawal,708.76,UPI,Chennai Central,Successful
+TXN0000992,2025-09-22 22:56:43,Savings,Transfer,1000.0,ATM,Bengaluru Indiranagar,Successful
+TXN0000689,2025-09-23 06:04:01,Current,Transfer,11098.74,UPI,Mumbai Fort,Successful
+TXN0000951,2025-09-23 09:04:09,Savings,Withdrawal,2550.99,UPI,Mumbai Fort,Successful
+TXN0000054,2025-09-23 14:24:34,Current,Payment,8736.66,Debit Card,Mumbai Fort,Successful
+TXN0000920,2025-09-24 05:39:41,Savings,Withdrawal,3209.03,UPI,Chennai Central,Successful
+TXN0000318,2025-09-24 21:15:58,Business,Deposit,5232.37,UPI,Mumbai Fort,Successful
+TXN0000656,2025-09-25 21:18:19,Savings,Deposit,585.29,UPI,Kolkata Park Street,Successful
+TXN0000511,2025-09-26 04:25:23,Current,Withdrawal,39310.12,Debit Card,Delhi Connaught Place,Successful
+TXN0000429,2025-09-26 13:04:41,Business,Transfer,1616.37,UPI,Hyderabad Banjara Hills,Successful
+TXN0000222,2025-09-26 18:06:45,Savings,Withdrawal,1613.34,UPI,Mumbai Fort,Successful
+TXN0000880,2025-09-26 19:21:27,Salary,Withdrawal,6650.35,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000539,2025-09-27 18:32:22,Current,Withdrawal,355.01,UPI,Kolkata Park Street,Successful
+TXN0000249,2025-09-27 20:48:14,Salary,Withdrawal,3670.98,Debit Card,Mumbai Fort,Successful
+TXN0000502,2025-09-28 08:06:28,Salary,Transfer,461.76,UPI,Delhi Connaught Place,Successful
+TXN0000696,2025-09-28 12:16:52,Current,Deposit,11609.24,ATM,Kolkata Park Street,Successful
+TXN0000698,2025-09-29 12:15:03,Salary,Transfer,2061.37,UPI,Kolkata Park Street,Successful
+TXN0000560,2025-09-29 22:59:47,Salary,Withdrawal,3012.15,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000718,2025-09-30 08:20:43,Business,Payment,11271.87,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000972,2025-09-30 22:19:00,Salary,Transfer,2053.48,Debit Card,Mumbai Fort,Successful
+TXN0000079,2025-10-01 14:08:50,Salary,Transfer,1717.37,UPI,Bengaluru Indiranagar,Successful
+TXN0000854,2025-10-01 16:23:03,Savings,Withdrawal,3215.65,Credit Card,Chennai Central,Successful
+TXN0000490,2025-10-01 19:47:35,Savings,Withdrawal,801.41,UPI,Bengaluru Indiranagar,Successful
+TXN0000536,2025-10-01 20:53:33,Salary,Withdrawal,445.37,Credit Card,Chennai Central,Successful
+TXN0000180,2025-10-01 22:12:25,Savings,Withdrawal,18545.67,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000544,2025-10-02 10:11:11,Current,Transfer,3763.52,ATM,Chennai Central,Successful
+TXN0000577,2025-10-02 16:10:33,Savings,Transfer,5201.14,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000499,2025-10-02 16:48:58,Current,Transfer,1910.92,UPI,Bengaluru Indiranagar,Successful
+TXN0000739,2025-10-02 17:17:53,Salary,Transfer,3570.92,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000078,2025-10-03 10:08:59,Savings,Transfer,2886.95,Credit Card,Mumbai Fort,Successful
+TXN0000240,2025-10-03 10:48:36,Savings,Deposit,53.38,UPI,Hyderabad Banjara Hills,Successful
+TXN0000547,2025-10-03 16:29:46,Salary,Payment,5241.9,Bank Transfer,Chennai Central,Successful
+TXN0000822,2025-10-04 08:34:28,Business,Deposit,6624.93,Credit Card,Delhi Connaught Place,Successful
+TXN0000980,2025-10-05 15:49:39,Salary,Withdrawal,271.09,UPI,Mumbai Fort,Successful
+TXN0000825,2025-10-06 17:03:45,Salary,Transfer,764.8,Debit Card,Chennai Central,Successful
+TXN0000936,2025-10-07 01:20:12,Salary,Transfer,15526.04,Bank Transfer,Chennai Central,Successful
+TXN0000731,2025-10-07 08:20:33,Current,Deposit,7692.0,Bank Transfer,Mumbai Fort,Successful
+TXN0000044,2025-10-07 15:44:40,Savings,Transfer,326.64,UPI,Chennai Central,Successful
+TXN0000069,2025-10-07 16:46:23,Savings,Transfer,1274.48,UPI,Chennai Central,Successful
+TXN0000320,2025-10-08 07:04:23,Savings,Deposit,8759.42,Bank Transfer,Kolkata Park Street,Successful
+TXN0000945,2025-10-08 09:30:00,Savings,Transfer,1190.01,Debit Card,Chennai Central,Successful
+TXN0000387,2025-10-08 12:30:03,Savings,Transfer,9221.89,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000622,2025-10-08 16:10:49,Savings,Deposit,2314.48,Debit Card,Chennai Central,Successful
+TXN0000595,2025-10-09 09:23:55,Savings,Deposit,183.33,UPI,Chennai Central,Successful
+TXN0000501,2025-10-09 18:37:35,Current,Transfer,5474.48,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000533,2025-10-10 08:09:07,Savings,Transfer,792.47,UPI,Chennai Central,Successful
+TXN0000535,2025-10-11 01:54:35,Salary,Withdrawal,540.24,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000192,2025-10-11 20:55:07,Savings,Withdrawal,3986.65,Debit Card,Kolkata Park Street,Successful
+TXN0000937,2025-10-12 12:09:28,Savings,Withdrawal,714.09,UPI,Chennai Central,Successful
+TXN0000171,2025-10-13 17:50:00,Savings,Payment,74951.42,Bank Transfer,Chennai Central,Failed
+TXN0000261,2025-10-13 23:56:15,Savings,Transfer,19860.24,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000686,2025-10-14 09:17:46,Savings,Transfer,388.3,UPI,Delhi Connaught Place,Successful
+TXN0000975,2025-10-14 17:51:54,Savings,Transfer,500.0,ATM,Mumbai Fort,Successful
+TXN0000271,2025-10-15 11:30:46,Savings,Transfer,2227.94,Debit Card,Mumbai Fort,Successful
+TXN0000047,2025-10-15 13:21:26,Savings,Transfer,11831.86,Bank Transfer,Chennai Central,Successful
+TXN0000602,2025-10-15 14:56:36,Savings,Transfer,843.15,UPI,Mumbai Fort,Successful
+TXN0000915,2025-10-15 16:46:16,Savings,Transfer,2445.04,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000312,2025-10-16 13:39:33,Salary,Transfer,1054.14,UPI,Hyderabad Banjara Hills,Successful
+TXN0000715,2025-10-16 21:34:58,Savings,Transfer,1063.12,UPI,Hyderabad Banjara Hills,Successful
+TXN0000076,2025-10-17 10:14:05,Current,Transfer,3295.53,UPI,Kolkata Park Street,Successful
+TXN0000652,2025-10-17 15:59:04,Current,Withdrawal,3119.29,UPI,Mumbai Fort,Successful
+TXN0000510,2025-10-18 13:47:03,Savings,Withdrawal,817.25,Debit Card,Mumbai Fort,Successful
+TXN0000128,2025-10-19 08:27:48,Current,Payment,10545.82,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000907,2025-10-19 15:42:53,Salary,Deposit,2500.0,ATM,Mumbai Fort,Successful
+TXN0000947,2025-10-19 19:49:03,Savings,Transfer,11563.72,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000576,2025-10-20 18:10:19,Savings,Payment,8400.66,Bank Transfer,Chennai Central,Successful
+TXN0000101,2025-10-21 09:48:45,Current,Transfer,5315.81,Credit Card,Chennai Central,Successful
+TXN0000363,2025-10-21 10:33:05,Savings,Withdrawal,3474.94,Debit Card,Mumbai Fort,Successful
+TXN0000738,2025-10-21 11:06:16,Savings,Transfer,5100.0,ATM,Chennai Central,Successful
+TXN0000247,2025-10-21 19:24:08,Salary,Withdrawal,2571.84,UPI,Chennai Central,Successful
+TXN0000014,2025-10-21 23:30:16,Savings,Transfer,1362.01,Debit Card,Delhi Connaught Place,Successful
+TXN0000447,2025-10-22 02:27:11,Savings,Deposit,609.56,UPI,Chennai Central,Successful
+TXN0000493,2025-10-22 15:18:10,Salary,Transfer,1647.6,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000830,2025-10-23 09:54:17,Savings,Payment,1121.48,Credit Card,Kolkata Park Street,Successful
+TXN0000083,2025-10-23 20:55:31,Current,Payment,8386.62,ATM,Kolkata Park Street,Successful
+TXN0000896,2025-10-24 05:24:06,Savings,Transfer,407.77,UPI,Delhi Connaught Place,Successful
+TXN0000482,2025-10-24 20:41:44,Current,Transfer,4195.5,ATM,Chennai Central,Successful
+TXN0000235,2025-10-25 09:38:45,Current,Transfer,4544.02,UPI,Delhi Connaught Place,Failed
+TXN0000768,2025-10-25 10:47:56,Current,Withdrawal,3715.84,Debit Card,Hyderabad Banjara Hills,Successful
+TXN999902,2025-10-25 19:22:05,Current,Payment,620000.0,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000424,2025-10-26 09:44:49,Salary,Withdrawal,9747.53,Bank Transfer,Kolkata Park Street,Failed
+TXN0000449,2025-10-26 20:37:43,Savings,Withdrawal,600.0,ATM,Hyderabad Banjara Hills,Successful
+TXN0000598,2025-10-27 09:11:57,Current,Withdrawal,2402.2,Debit Card,Delhi Connaught Place,Successful
+TXN0000886,2025-10-27 12:21:15,Current,Transfer,2242.4,UPI,Chennai Central,Successful
+TXN0000507,2025-10-27 18:59:18,Savings,Withdrawal,679.34,Credit Card,Chennai Central,Successful
+TXN0000990,2025-10-28 10:43:04,Current,Payment,1326.59,UPI,Mumbai Fort,Successful
+TXN0000241,2025-10-28 11:41:50,Salary,Deposit,3352.97,UPI,Bengaluru Indiranagar,Successful
+TXN0000924,2025-10-28 18:36:46,Salary,Withdrawal,1000.0,ATM,Chennai Central,Successful
+TXN0000423,2025-10-29 10:21:18,Current,Withdrawal,191496.49,Bank Transfer,Chennai Central,Successful
+TXN0000575,2025-10-29 10:48:17,Salary,Transfer,581.77,UPI,Mumbai Fort,Successful
+TXN0000726,2025-10-29 20:56:42,Savings,Transfer,74.44,UPI,Bengaluru Indiranagar,Successful
+TXN0000272,2025-10-29 21:44:21,Business,Deposit,175681.55,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000918,2025-10-30 17:46:30,Savings,Deposit,2041.19,Credit Card,Mumbai Fort,Successful
+TXN0000871,2025-10-30 20:16:51,Salary,Deposit,1254.35,Credit Card,Kolkata Park Street,Successful
+TXN0000806,2025-10-31 08:17:16,Savings,Transfer,2761.99,UPI,Delhi Connaught Place,Successful
+TXN0000860,2025-10-31 20:08:51,Savings,Withdrawal,1929.57,UPI,Mumbai Fort,Successful
+TXN0000801,2025-11-01 13:21:37,Current,Withdrawal,677.26,Credit Card,Mumbai Fort,Successful
+TXN0000489,2025-11-01 13:39:19,Savings,Withdrawal,835.44,UPI,Mumbai Fort,Successful
+TXN0000733,2025-11-01 15:39:01,Savings,Withdrawal,11723.0,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000940,2025-11-01 22:55:00,Current,Payment,1465.96,ATM,Chennai Central,Successful
+TXN0000236,2025-11-02 14:42:38,Savings,Withdrawal,1000.0,ATM,Mumbai Fort,Successful
+TXN0000022,2025-11-02 17:56:53,Salary,Deposit,3000.0,ATM,Mumbai Fort,Successful
+TXN0000750,2025-11-03 09:13:41,Business,Deposit,2022.16,UPI,Hyderabad Banjara Hills,Successful
+TXN0000377,2025-11-03 09:14:09,Current,Withdrawal,549.29,UPI,Delhi Connaught Place,Failed
+TXN0000862,2025-11-03 10:33:39,Savings,Transfer,3594.52,Credit Card,Mumbai Fort,Successful
+TXN0000965,2025-11-03 12:20:48,Savings,Deposit,2021.4,Credit Card,Chennai Central,Successful
+TXN0000111,2025-11-03 14:55:02,Savings,Deposit,3558.2,UPI,Kolkata Park Street,Successful
+TXN0000596,2025-11-03 18:46:02,Current,Transfer,4735.44,Debit Card,Chennai Central,Successful
+TXN0000113,2025-11-04 07:49:18,Savings,Withdrawal,607.65,UPI,Mumbai Fort,Successful
+TXN0000340,2025-11-04 11:10:58,Current,Transfer,3322.84,UPI,Delhi Connaught Place,Successful
+TXN0000086,2025-11-04 17:38:31,Savings,Deposit,1495.48,UPI,Delhi Connaught Place,Failed
+TXN0000639,2025-11-04 18:03:25,Savings,Payment,1452.51,Debit Card,Mumbai Fort,Failed
+TXN0000187,2025-11-06 10:06:17,Savings,Payment,500.0,ATM,Delhi Connaught Place,Successful
+TXN0000252,2025-11-06 10:40:54,Savings,Deposit,883.34,Debit Card,Mumbai Fort,Successful
+TXN0000172,2025-11-06 11:57:49,Savings,Payment,10200.0,ATM,Mumbai Fort,Successful
+TXN0000973,2025-11-06 15:15:58,Savings,Payment,4363.14,Debit Card,Delhi Connaught Place,Successful
+TXN0000316,2025-11-07 07:15:49,Savings,Payment,440.32,UPI,Mumbai Fort,Successful
+TXN0000891,2025-11-07 13:18:01,Savings,Withdrawal,177.46,UPI,Bengaluru Indiranagar,Successful
+TXN0000874,2025-11-07 19:16:14,Current,Transfer,9438.61,UPI,Delhi Connaught Place,Successful
+TXN0000796,2025-11-09 09:14:18,Savings,Deposit,4406.78,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000744,2025-11-09 10:26:42,Salary,Transfer,700.0,ATM,Delhi Connaught Place,Successful
+TXN0000124,2025-11-10 11:34:35,Current,Transfer,6789.64,Credit Card,Chennai Central,Successful
+TXN0000730,2025-11-10 19:18:56,Savings,Transfer,5200.0,ATM,Mumbai Fort,Successful
+TXN0000631,2025-11-11 04:05:22,Savings,Payment,943.19,UPI,Mumbai Fort,Successful
+TXN0000436,2025-11-11 12:08:16,Business,Deposit,1091.31,UPI,Chennai Central,Successful
+TXN0000831,2025-11-11 18:44:09,Salary,Withdrawal,2723.87,UPI,Chennai Central,Successful
+TXN0000326,2025-11-12 19:14:39,Current,Payment,1184.21,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000522,2025-11-13 05:00:54,Savings,Payment,13492.4,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000476,2025-11-13 07:13:35,Savings,Withdrawal,17282.5,Bank Transfer,Mumbai Fort,Successful
+TXN0000191,2025-11-14 16:16:33,Savings,Transfer,2138.64,Credit Card,Chennai Central,Successful
+TXN0000680,2025-11-14 16:29:51,Current,Withdrawal,10238.02,Credit Card,Kolkata Park Street,Successful
+TXN0000488,2025-11-15 18:58:34,Savings,Payment,3061.17,UPI,Mumbai Fort,Successful
+TXN0000400,2025-11-15 20:53:39,Savings,Transfer,217.82,UPI,Bengaluru Indiranagar,Successful
+TXN0000426,2025-11-17 17:31:23,Salary,Transfer,1782.1,Debit Card,Delhi Connaught Place,Successful
+TXN0000185,2025-11-17 18:43:10,Savings,Transfer,8515.51,Credit Card,Chennai Central,Successful
+TXN0000422,2025-11-17 19:19:12,Savings,Transfer,188.48,UPI,Hyderabad Banjara Hills,Successful
+TXN0000408,2025-11-18 09:41:12,Savings,Payment,202.98,UPI,Kolkata Park Street,Successful
+TXN0000613,2025-11-18 10:23:45,Savings,Withdrawal,24081.71,Bank Transfer,Bengaluru Indiranagar,Successful
+TXN0000347,2025-11-18 14:11:44,Savings,Payment,1671.27,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000250,2025-11-18 19:50:33,Savings,Payment,17554.63,Bank Transfer,Mumbai Fort,Successful
+TXN0000594,2025-11-19 18:23:44,Current,Deposit,5169.14,ATM,Kolkata Park Street,Successful
+TXN0000492,2025-11-20 08:41:55,Savings,Transfer,786.48,UPI,Mumbai Fort,Successful
+TXN0000512,2025-11-20 09:02:16,Current,Transfer,2069.4,UPI,Mumbai Fort,Successful
+TXN0000784,2025-11-20 16:05:29,Savings,Deposit,2442.56,Debit Card,Mumbai Fort,Successful
+TXN0000879,2025-11-20 17:49:19,Savings,Withdrawal,2060.62,UPI,Mumbai Fort,Failed
+TXN0000415,2025-11-21 11:14:23,Business,Withdrawal,962.11,Debit Card,Delhi Connaught Place,Successful
+TXN0000629,2025-11-21 17:34:04,Savings,Transfer,2231.1,Debit Card,Mumbai Fort,Failed
+TXN0000440,2025-11-21 19:37:45,Current,Deposit,4486.42,UPI,Hyderabad Banjara Hills,Successful
+TXN0000181,2025-11-22 18:43:04,Business,Transfer,3330.7,ATM,Hyderabad Banjara Hills,Pending
+TXN0000049,2025-11-22 19:10:56,Savings,Withdrawal,573.09,UPI,Delhi Connaught Place,Successful
+TXN0000542,2025-11-22 20:24:38,Current,Withdrawal,4635.52,UPI,Delhi Connaught Place,Successful
+TXN0000021,2025-11-23 07:50:42,Savings,Payment,3792.88,Debit Card,Mumbai Fort,Successful
+TXN0000406,2025-11-23 08:59:12,Savings,Transfer,2376.04,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000968,2025-11-23 09:12:01,Current,Payment,29416.77,Debit Card,Chennai Central,Successful
+TXN0000752,2025-11-24 09:59:18,Savings,Transfer,5500.0,ATM,Delhi Connaught Place,Successful
+TXN0000430,2025-11-24 19:27:47,Savings,Withdrawal,9545.62,Bank Transfer,Delhi Connaught Place,Successful
+TXN0000018,2025-11-24 23:33:36,Salary,Withdrawal,2806.26,UPI,Bengaluru Indiranagar,Pending
+TXN0000559,2025-11-25 12:54:51,Savings,Transfer,728.76,UPI,Chennai Central,Successful
+TXN0000850,2025-11-25 20:11:42,Savings,Deposit,548.22,Credit Card,Mumbai Fort,Failed
+TXN0000702,2025-11-26 03:01:04,Current,Withdrawal,2397.78,ATM,Hyderabad Banjara Hills,Successful
+TXN0000229,2025-11-26 12:08:50,Savings,Deposit,372.63,UPI,Mumbai Fort,Successful
+TXN0000433,2025-11-26 18:13:13,Salary,Deposit,4895.74,UPI,Bengaluru Indiranagar,Failed
+TXN0000868,2025-11-27 16:35:14,Salary,Deposit,1593.23,UPI,Delhi Connaught Place,Pending
+TXN0000607,2025-11-27 18:06:57,Savings,Transfer,1466.97,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000621,2025-11-27 18:44:00,Savings,Transfer,60.25,UPI,Mumbai Fort,Successful
+TXN0000291,2025-11-27 19:41:58,Savings,Transfer,1756.98,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000020,2025-11-27 20:32:27,Business,Deposit,2189.95,UPI,Chennai Central,Successful
+TXN0000239,2025-11-28 07:47:18,Savings,Deposit,669.98,Credit Card,Mumbai Fort,Successful
+TXN0000495,2025-11-28 14:29:20,Salary,Transfer,1679.03,Credit Card,Hyderabad Banjara Hills,Successful
+TXN0000102,2025-11-28 17:28:17,Savings,Deposit,3772.41,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000177,2025-11-28 20:18:05,Current,Transfer,1450.76,UPI,Mumbai Fort,Successful
+TXN0000254,2025-11-29 09:17:21,Savings,Transfer,139.47,UPI,Chennai Central,Successful
+TXN0000948,2025-11-29 10:06:45,Savings,Transfer,8907.16,Debit Card,Chennai Central,Successful
+TXN0000259,2025-11-29 10:10:43,Savings,Deposit,4213.22,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000446,2025-11-29 10:49:24,Savings,Withdrawal,10100.0,ATM,Chennai Central,Successful
+TXN0000567,2025-11-29 18:36:54,Current,Withdrawal,992.96,UPI,Kolkata Park Street,Successful
+TXN0000392,2025-11-29 21:19:57,Current,Payment,1459.85,ATM,Delhi Connaught Place,Failed
+TXN0000682,2025-11-30 18:59:41,Current,Withdrawal,512.75,UPI,Chennai Central,Successful
+TXN0000435,2025-11-30 19:14:10,Savings,Deposit,99.22,UPI,Mumbai Fort,Successful
+TXN0000274,2025-12-01 17:28:12,Current,Transfer,117547.94,Bank Transfer,Mumbai Fort,Pending
+TXN0000380,2025-12-01 18:29:21,Business,Deposit,7484.03,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000856,2025-12-01 19:50:08,Current,Payment,2054.85,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000557,2025-12-01 20:12:12,Savings,Withdrawal,1885.8,Debit Card,Mumbai Fort,Failed
+TXN0000237,2025-12-02 06:15:40,Business,Deposit,10175.37,ATM,Bengaluru Indiranagar,Successful
+TXN0000335,2025-12-02 08:06:26,Savings,Withdrawal,1100.0,ATM,Chennai Central,Successful
+TXN0000055,2025-12-02 19:49:58,Savings,Transfer,3707.06,UPI,Mumbai Fort,Successful
+TXN0000195,2025-12-03 13:19:28,Savings,Payment,3829.25,UPI,Delhi Connaught Place,Successful
+TXN0000732,2025-12-04 14:24:48,Savings,Transfer,1100.0,ATM,Mumbai Fort,Successful
+TXN0000562,2025-12-04 16:47:43,Savings,Transfer,275.2,UPI,Delhi Connaught Place,Successful
+TXN0000390,2025-12-05 06:20:50,Savings,Transfer,1000.0,ATM,Mumbai Fort,Successful
+TXN0000873,2025-12-05 12:10:50,Savings,Deposit,4864.84,Credit Card,Mumbai Fort,Successful
+TXN0000234,2025-12-05 15:59:35,Salary,Transfer,500.0,ATM,Chennai Central,Successful
+TXN0000462,2025-12-05 19:56:04,Savings,Transfer,26417.89,Bank Transfer,Mumbai Fort,Successful
+TXN0000553,2025-12-05 23:26:02,Salary,Deposit,10500.0,ATM,Mumbai Fort,Successful
+TXN0000245,2025-12-06 10:11:57,Savings,Payment,1332.36,UPI,Bengaluru Indiranagar,Successful
+TXN0000141,2025-12-06 10:58:27,Current,Withdrawal,301.94,UPI,Mumbai Fort,Successful
+TXN0000480,2025-12-06 13:13:22,Current,Withdrawal,5967.67,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000851,2025-12-07 05:25:47,Savings,Deposit,6817.21,Credit Card,Chennai Central,Successful
+TXN0000615,2025-12-07 13:54:13,Current,Transfer,2560.31,UPI,Bengaluru Indiranagar,Successful
+TXN0000565,2025-12-07 19:05:00,Current,Deposit,3578.04,UPI,Mumbai Fort,Successful
+TXN0000600,2025-12-08 14:46:42,Current,Transfer,4191.78,UPI,Chennai Central,Successful
+TXN0000824,2025-12-08 18:46:16,Savings,Deposit,583.85,UPI,Mumbai Fort,Successful
+TXN0000617,2025-12-08 20:41:27,Salary,Payment,996.88,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000193,2025-12-08 21:34:07,Salary,Withdrawal,307.33,UPI,Mumbai Fort,Successful
+TXN0000381,2025-12-09 08:03:15,Savings,Payment,8208.24,Debit Card,Chennai Central,Successful
+TXN0000052,2025-12-09 08:15:47,Savings,Deposit,563.42,UPI,Bengaluru Indiranagar,Successful
+TXN0000793,2025-12-09 08:38:21,Current,Transfer,6661.59,UPI,Mumbai Fort,Successful
+TXN0000167,2025-12-09 10:25:22,Savings,Deposit,24.07,UPI,Chennai Central,Successful
+TXN0000384,2025-12-09 14:49:41,Salary,Payment,3075.97,UPI,Mumbai Fort,Successful
+TXN0000691,2025-12-09 15:51:16,Savings,Deposit,4941.09,UPI,Mumbai Fort,Successful
+TXN0000459,2025-12-10 15:39:15,Savings,Transfer,680.25,UPI,Mumbai Fort,Successful
+TXN0000504,2025-12-10 16:29:46,Savings,Transfer,66.49,UPI,Mumbai Fort,Successful
+TXN0000716,2025-12-10 16:30:17,Savings,Payment,618.56,Debit Card,Hyderabad Banjara Hills,Successful
+TXN0000342,2025-12-11 05:50:28,Savings,Transfer,136.77,UPI,Chennai Central,Successful
+TXN0000956,2025-12-11 11:29:30,Savings,Transfer,148.28,UPI,Delhi Connaught Place,Successful
+TXN0000597,2025-12-11 15:40:57,Savings,Payment,2691.93,Credit Card,Chennai Central,Successful
+TXN0000679,2025-12-11 17:03:06,Current,Deposit,1185.6,UPI,Chennai Central,Successful
+TXN0000336,2025-12-11 21:19:10,Current,Payment,4715.41,UPI,Delhi Connaught Place,Successful
+TXN0000370,2025-12-12 08:35:15,Savings,Deposit,5529.29,Debit Card,Chennai Central,Successful
+TXN0000278,2025-12-12 13:04:22,Savings,Transfer,412.11,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000255,2025-12-13 08:30:11,Savings,Transfer,1000.0,ATM,Kolkata Park Street,Successful
+TXN0000264,2025-12-13 10:32:40,Current,Deposit,5246.73,UPI,Delhi Connaught Place,Successful
+TXN0000411,2025-12-13 14:33:56,Savings,Transfer,350.26,UPI,Hyderabad Banjara Hills,Successful
+TXN0000425,2025-12-13 17:16:58,Savings,Transfer,1242.36,UPI,Chennai Central,Successful
+TXN0000515,2025-12-14 09:10:32,Savings,Payment,734.92,Debit Card,Chennai Central,Successful
+TXN0000051,2025-12-14 20:09:23,Salary,Transfer,4446.77,Bank Transfer,Mumbai Fort,Successful
+TXN0000991,2025-12-15 09:46:45,Savings,Transfer,5126.15,Bank Transfer,Delhi Connaught Place,Failed
+TXN0000468,2025-12-15 14:16:23,Current,Withdrawal,2321.86,UPI,Bengaluru Indiranagar,Successful
+TXN0000503,2025-12-16 18:08:08,Current,Payment,6107.69,ATM,Bengaluru Indiranagar,Successful
+TXN0000516,2025-12-17 10:19:08,Salary,Transfer,1071.75,UPI,Bengaluru Indiranagar,Failed
+TXN0000894,2025-12-17 18:06:01,Savings,Deposit,495.64,UPI,Chennai Central,Successful
+TXN0000509,2025-12-18 18:27:18,Current,Withdrawal,2168.01,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000946,2025-12-18 20:02:02,Savings,Withdrawal,2724.22,Credit Card,Mumbai Fort,Successful
+TXN0000260,2025-12-18 20:25:47,Business,Transfer,175781.01,Bank Transfer,Chennai Central,Successful
+TXN0000116,2025-12-19 19:56:04,Savings,Deposit,4548.22,UPI,Hyderabad Banjara Hills,Successful
+TXN0000403,2025-12-19 20:04:04,Savings,Transfer,1127.97,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000175,2025-12-20 11:53:00,Current,Payment,46737.07,Bank Transfer,Kolkata Park Street,Successful
+TXN0000104,2025-12-20 14:29:32,Current,Withdrawal,7313.05,UPI,Bengaluru Indiranagar,Successful
+TXN0000779,2025-12-20 17:07:19,Salary,Deposit,256.22,UPI,Chennai Central,Successful
+TXN0000473,2025-12-21 12:33:41,Current,Withdrawal,134666.75,Bank Transfer,Hyderabad Banjara Hills,Successful
+TXN0000799,2025-12-21 19:49:27,Current,Deposit,5443.56,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000842,2025-12-22 15:42:35,Savings,Transfer,2500.0,ATM,Mumbai Fort,Successful
+TXN0000452,2025-12-22 22:03:25,Savings,Deposit,304.0,UPI,Delhi Connaught Place,Successful
+TXN0000314,2025-12-23 08:26:50,Savings,Withdrawal,536.76,UPI,Delhi Connaught Place,Successful
+TXN0000757,2025-12-23 14:18:14,Savings,Payment,3474.05,Credit Card,Bengaluru Indiranagar,Successful
+TXN0000619,2025-12-25 10:11:32,Savings,Transfer,1000.0,ATM,Mumbai Fort,Successful
+TXN0000323,2025-12-25 22:37:08,Savings,Deposit,62252.53,Bank Transfer,Mumbai Fort,Successful
+TXN0000713,2025-12-26 11:01:40,Salary,Payment,1766.45,Credit Card,Chennai Central,Failed
+TXN0000006,2025-12-26 12:15:10,Salary,Payment,1018.44,Debit Card,Bengaluru Indiranagar,Successful
+TXN0000665,2025-12-26 17:59:55,Current,Payment,1876.36,Debit Card,Chennai Central,Successful
+TXN0000362,2025-12-26 21:16:17,Savings,Payment,899.67,Credit Card,Kolkata Park Street,Successful
+TXN0000898,2025-12-27 14:32:54,Current,Withdrawal,16462.0,Debit Card,Chennai Central,Successful
+TXN0000711,2025-12-27 14:44:05,Current,Withdrawal,33697.84,ATM,Bengaluru Indiranagar,Successful
+TXN0000114,2025-12-28 02:37:57,Salary,Payment,4844.8,Debit Card,Mumbai Fort,Successful
+TXN0000230,2025-12-28 08:42:37,Current,Transfer,3905.59,Debit Card,Chennai Central,Successful
+TXN0000633,2025-12-29 07:28:52,Current,Deposit,43953.61,Bank Transfer,Chennai Central,Successful
+TXN0000877,2025-12-29 16:58:13,Savings,Payment,989.61,UPI,Delhi Connaught Place,Successful
+TXN0000782,2025-12-30 16:49:58,Savings,Transfer,10135.02,Bank Transfer,Mumbai Fort,Successful
+TXN0000722,2025-12-30 17:01:11,Current,Transfer,961.69,UPI,Chennai Central,Successful
+TXN0000736,2025-12-30 17:17:54,Salary,Transfer,2767.5,UPI,Delhi Connaught Place,Successful
+TXN0000843,2025-12-31 06:49:15,Savings,Transfer,2625.14,Debit Card,Mumbai Fort,Successful
+TXN0000063,2025-12-31 07:42:28,Savings,Withdrawal,3710.21,UPI,Chennai Central,Successful
+TXN0000257,2025-12-31 09:49:09,Current,Payment,4382.54,UPI,Delhi Connaught Place,Successful
+TXN0000256,2025-12-31 09:53:03,Current,Transfer,27264.57,Bank Transfer,Chennai Central,Successful
+TXN0000417,2025-12-31 15:48:01,Current,Withdrawal,5803.63,ATM,Bengaluru Indiranagar,Successful
+TXN0000772,2025-12-31 22:28:41,Savings,Deposit,2018.48,UPI,Chennai Central,Successful
