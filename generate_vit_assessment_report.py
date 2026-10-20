@@ -408,6 +408,9 @@ def create_report():
 
     r_code_blocks = [
         ("R Script 1: time_series_visualization.R (Moving Averages & Smoothing)",
+         "r_snippet_1_time_series.png",
+         "r_plot_1_daily_volume_ma.png",
+         "Ingests banking transactions, groups by date, and applies zoo::rollmean() to compute 7-day and 30-day moving averages along with cumulative liquidity curves.",
          """# ==============================================================================
 # MODULE: time_series_visualization.R
 # Advanced Time-Series Visualization & Dual Moving Averages in R
@@ -453,14 +456,14 @@ p_ma <- ggplot(daily_summary, aes(x = date)) +
     y = "Gross Transaction Volume (INR)"
   ) +
   theme_minimal(base_size = 11) +
-  theme(
-    plot.title = element_text(face = "bold", size = 14, color = "#0F2C59"),
-    legend.position = "bottom"
-  )
+  theme(plot.title = element_text(face = "bold", size = 14, color = "#0F2C59"), legend.position = "bottom")
 
 ggsave("r-analysis/r_daily_volume_ma.png", plot = p_ma, width = 10, height = 5.5, dpi = 300)"""),
 
         ("R Script 2: anomaly_analysis.R (Non-Parametric MAD & IQR Fences)",
+         "r_snippet_2_anomaly_detection.png",
+         "r_plot_2_anomaly_mad.png",
+         "Applies robust median() and mad() estimators to construct non-parametric upper fences, separating legitimate corporate transactions from fraud.",
          """# ==============================================================================
 # MODULE: anomaly_analysis.R
 # Robust Non-Parametric Outlier Detection (MAD & IQR) in R
@@ -497,14 +500,14 @@ p_anomaly <- ggplot(df, aes(x = as.POSIXct(timestamp), y = amount)) +
     y = "Transaction Amount (INR, Log10 Scale)"
   ) +
   theme_minimal(base_size = 11) +
-  theme(
-    plot.title = element_text(face = "bold", size = 14, color = "#0F2C59"),
-    legend.position = "bottom"
-  )
+  theme(plot.title = element_text(face = "bold", size = 14, color = "#0F2C59"), legend.position = "bottom")
 
 ggsave("r-analysis/r_anomaly_mad_plot.png", plot = p_anomaly, width = 10, height = 5.5, dpi = 300)"""),
 
         ("R Script 3: forecasting.R (14-Day ARIMA & Holt-Winters Forecasting)",
+         "r_snippet_3_forecasting.png",
+         "r_plot_3_forecast_arima.png",
+         "Converts daily transactions into weekly seasonal time-series (frequency = 7), fits auto.arima() and generates 14-day forecasts with 80% and 95% confidence intervals.",
          """# ==============================================================================
 # MODULE: forecasting.R
 # 14-Day Forward Econometric Forecasting in R (forecast package)
@@ -533,23 +536,82 @@ p_forecast <- autoplot(fc_arima) +
     y = "Daily Transaction Count"
   ) +
   theme_minimal(base_size = 11) +
-  theme(
-    plot.title = element_text(face = "bold", size = 14, color = "#0F2C59"),
-    legend.position = "bottom"
-  )
+  theme(plot.title = element_text(face = "bold", size = 14, color = "#0F2C59"), legend.position = "bottom")
 
 ggsave("r-analysis/r_forecast_arima.png", plot = p_forecast, width = 10, height = 5.5, dpi = 300)"""),
+
+        ("R Script 4: diurnal_heatmaps.R (24x7 Diurnal 168-Hour Matrix Heatmap)",
+         "r_snippet_4_diurnal_heatmaps.png",
+         "r_plot_4_diurnal_heatmap.png",
+         "Reshapes transaction records by weekday and hour of day into a 168-cell matrix, using ggplot2::geom_tile() to visualize switch congestion during midday and evening peaks.",
+         """# ==============================================================================
+# MODULE: diurnal_heatmaps.R
+# 24x7 Diurnal 168-Hour Heatmap Matrix in R (ggplot2 geom_tile)
+# ==============================================================================
+library(ggplot2)
+library(dplyr)
+
+# 1. Feature Engineering: Extract Hour and Weekday
+df$hour    <- as.numeric(format(as.POSIXct(df$timestamp), "%H"))
+df$weekday <- factor(weekdays(as.Date(df$timestamp)),
+                     levels = c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"))
+
+# 2. Aggregate 168-cell matrix
+diurnal_matrix <- df %>%
+  group_by(weekday, hour) %>%
+  summarise(txn_density = n(), .groups = "drop")
+
+# 3. 2-D Color Intensity Heatmap in ggplot2
+p_heatmap <- ggplot(diurnal_matrix, aes(x = hour, y = weekday, fill = txn_density)) +
+  geom_tile(color = "white", linewidth = 0.4) +
+  scale_fill_gradientn(colors = c("#f8fafc", "#93c5fd", "#2563eb", "#0f172a"), name = "Txn Density") +
+  scale_x_continuous(breaks = seq(0, 23, by = 2)) +
+  labs(
+    title = "APEX BANK: 24x7 Diurnal Peak Rush Hour Heatmap (168-Hour Matrix)",
+    subtitle = "Isolating midday lunch peak (12-2 PM) and evening shopping surge (6-8 PM)",
+    x = "Hour of the Day (00:00 - 23:00)", y = "Day of the Week"
+  ) +
+  theme_minimal(base_size = 11)
+
+ggsave("r-analysis/r_diurnal_heatmap.png", plot = p_heatmap, width = 10, height = 5.5, dpi = 300)"""),
     ]
 
-    for title, code in r_code_blocks:
+    for title, snip_img, plot_img, desc, code in r_code_blocks:
         add_sub_heading(title)
+        p_d = doc.add_paragraph()
+        p_d.add_run("Overview: ").font.bold = True
+        p_d.add_run(desc)
+
+        # 1. Embed R Code Snippet Screenshot
+        snip_path = os.path.join(screenshots_dir, snip_img)
+        if os.path.exists(snip_path):
+            p_slabel = doc.add_paragraph()
+            p_slabel.add_run("📸 R Code Implementation Snippet:").font.bold = True
+            p_slabel.runs[0].font.color.rgb = RGBColor(37, 99, 235)
+            p_img1 = doc.add_paragraph()
+            p_img1.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            doc.add_picture(snip_path, width=Inches(5.9))
+
+        # 2. Embed R Generated Plot Output
+        plot_path = os.path.join(screenshots_dir, plot_img)
+        if os.path.exists(plot_path):
+            p_plabel = doc.add_paragraph()
+            p_plabel.add_run("📊 Generated R Visualization Output (ggplot2 / forecast):").font.bold = True
+            p_plabel.runs[0].font.color.rgb = RGBColor(13, 148, 136)
+            p_img2 = doc.add_paragraph()
+            p_img2.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            doc.add_picture(plot_path, width=Inches(5.9))
+
+        # 3. Add Raw Code Listing
+        p_clabel = doc.add_paragraph()
+        p_clabel.add_run("Source Code Text:").font.bold = True
         p_c = doc.add_paragraph()
         p_c.paragraph_format.left_indent = Inches(0.2)
         p_c.paragraph_format.space_before = Pt(2)
         p_c.paragraph_format.space_after = Pt(8)
         r_c = p_c.add_run(code)
         r_c.font.name = 'Consolas'
-        r_c.font.size = Pt(8.5)
+        r_c.font.size = Pt(8.0)
         r_c.font.color.rgb = RGBColor(30, 41, 59)
 
     doc.add_page_break()
@@ -600,10 +662,16 @@ ggsave("r-analysis/r_forecast_arima.png", plot = p_forecast, width = 10, height 
             else:
                 p.add_run(text)
 
-    # Save Word Report
-    out_path = os.path.abspath("VIT_CSI3005_Lab_Assessment_Report.docx")
+    # Save Word Report with fallback for open files
+    out_path = os.path.abspath("VIT_CSI3005_Lab_Assessment_Report_with_R.docx")
     doc.save(out_path)
-    print(f"VIT Lab Assessment Report saved to: {out_path}")
+    print(f"VIT Lab Assessment Report with R Snippets saved to: {out_path}")
+    try:
+        orig_path = os.path.abspath("VIT_CSI3005_Lab_Assessment_Report.docx")
+        doc.save(orig_path)
+        print(f"Also updated: {orig_path}")
+    except Exception as e:
+        print(f"Original file was open in Word, saved to: {out_path}")
 
 if __name__ == "__main__":
     create_report()
